@@ -1,0 +1,12 @@
+Program Contribution:
+
+Ishtiak worked on the case based part. Implemented the exceptional event generator, case base generator, retriever and modifier. Also helped to design the simulator/controller of the system. He also performed a part of the testing and evaluation of the system.
+Shrijit worked on the design of the controller and the rule based system. He implemented the event value generator and handled the events for signal and speed limit. A part of the testing and evaluation was also done by him.
+Tejas worked on the format and the reading of the input text file. He also worked on the rule based system and implemented the handling for stop sign and lane change. He also performed a part of the testing and evaluation of the system. 
+
+
+Paper Contribution:
+
+Ishtiak contributed the Case Based section in the System design, Implementation and Evaluation section. The details of the Case base part in the Appendix is also done by him. 
+Shrijit contributed to the Abstract, Introduction and the sections of Handling the signal and 'stop' sign in the Rule Based section of the System Design, Implementation, Evaluation and the Appendix.
+Tejas contributed to the Related work and the sections of Handling the speed limit and the lane change in the Rule Based section of the System Design, Implementation and the Appendix.

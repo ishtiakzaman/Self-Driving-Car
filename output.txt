@@ -1,0 +1,986 @@
+# The path is the same as that in path.txt
+
+Output:
+
+Hello, I'm BayMax, your Self-Driving Car. 
+Please note that all distances displayed are in meters and the speed is in kmph.
+Let's get ready for a drive
+
+Source:  FP
+Destination:  IMU
+Distance:  0.5
+Fasten your seat-belts...
+Starting Car...
+
+Lane Distance covered: 0  Speed: 0  Remaining Lane Distance: 100.0
+Lane Distance covered: 0.0291893518519  Speed: 1.00077777778  Remaining Lane Distance: 99.9708106481
+Lane Distance covered: 0.032108287037  Speed: 1.05081666667  Remaining Lane Distance: 99.967891713
+Lane Distance covered: 0.119676342593  Speed: 2.05159444444  Remaining Lane Distance: 99.8803236574
+Lane Distance covered: 0.125514212963  Speed: 2.10163333333  Remaining Lane Distance: 99.874485787
+Lane Distance covered: 0.271460972222  Speed: 3.10241111111  Remaining Lane Distance: 99.7285390278
+Lane Distance covered: 0.280217777778  Speed: 3.15245  Remaining Lane Distance: 99.7197822222
+Lane Distance covered: 0.484543240741  Speed: 4.15322777778  Remaining Lane Distance: 99.5154567593
+Lane Distance covered: 0.496218981481  Speed: 4.20326666667  Remaining Lane Distance: 99.5037810185
+Lane Distance covered: 0.758923148148  Speed: 5.20404444444  Remaining Lane Distance: 99.2410768519
+Lane Distance covered: 0.773517824074  Speed: 5.25408333333  Remaining Lane Distance: 99.2264821759
+Lane Distance covered: 1.09460069444  Speed: 6.25486111111  Remaining Lane Distance: 98.9053993056
+Lane Distance covered: 1.11211430556  Speed: 6.3049  Remaining Lane Distance: 98.8878856944
+Lane Distance covered: 1.49157587963  Speed: 7.30567777778  Remaining Lane Distance: 98.5084241204
+Lane Distance covered: 1.51200842593  Speed: 7.35571666667  Remaining Lane Distance: 98.4879915741
+Lane Distance covered: 1.9498487037  Speed: 8.35649444444  Remaining Lane Distance: 98.0501512963
+Lane Distance covered: 1.97320018519  Speed: 8.40653333333  Remaining Lane Distance: 98.0267998148
+
+Exceptional Event in Progress...
+Object: bus
+Object Distance from Car: 8.73
+Object Speed: 18.23
+Object Direction wrt Car: left
+
+Retrieved Case:
+Object: 'bus'
+Distance from Car: 23.5
+Direction wrt Car: 'opposite'
+Speed of Car and Object: 'me': 24.699999999999999, 'bus': 19.07
+Increasing Speed to speed limit of 30
+
+Lane Distance covered: 2.14055246914  Speed: 8.75680555556  Remaining Lane Distance: 97.8594475309
+Lane Distance covered: 2.17182677469  Speed: 11.25875  Remaining Lane Distance: 97.8281732253
+Lane Distance covered: 2.21005092593  Speed: 13.7606944444  Remaining Lane Distance: 97.7899490741
+Lane Distance covered: 2.25522492284  Speed: 16.2626388889  Remaining Lane Distance: 97.7447750772
+Lane Distance covered: 2.30734876543  Speed: 18.7645833333  Remaining Lane Distance: 97.6926512346
+Lane Distance covered: 2.3664224537  Speed: 21.2665277778  Remaining Lane Distance: 97.6335775463
+Lane Distance covered: 2.43244598765  Speed: 23.7684722222  Remaining Lane Distance: 97.5675540123
+Lane Distance covered: 2.50541936728  Speed: 26.2704166667  Remaining Lane Distance: 97.4945806327
+Lane Distance covered: 2.58534259259  Speed: 28.7723611111  Remaining Lane Distance: 97.4146574074
+Lane Distance covered: 2.66867592593  Speed: 30  Remaining Lane Distance: 97.3313240741
+
+Exceptional event concluded...
+
+Speed increased to 30. Speed will be decreased to speed limit: 25
+
+Lane Distance covered: 3.75200925926  Speed: 30  Remaining Lane Distance: 96.2479907407
+Lane Distance covered: 3.83534259259  Speed: 30  Remaining Lane Distance: 96.1646574074
+Lane Distance covered: 5.50200925926  Speed: 30  Remaining Lane Distance: 94.4979907407
+Lane Distance covered: 5.58534259259  Speed: 30  Remaining Lane Distance: 94.4146574074
+Lane Distance covered: 7.25200925926  Speed: 30  Remaining Lane Distance: 92.7479907407
+Lane Distance covered: 7.33534259259  Speed: 30  Remaining Lane Distance: 92.6646574074
+Lane Distance covered: 9.00200925926  Speed: 30  Remaining Lane Distance: 90.9979907407
+Lane Distance covered: 9.08534259259  Speed: 30  Remaining Lane Distance: 90.9146574074
+Lane Distance covered: 10.7520092593  Speed: 30  Remaining Lane Distance: 89.2479907407
+Lane Distance covered: 10.8353425926  Speed: 30  Remaining Lane Distance: 89.1646574074
+Lane Distance covered: 12.5020092593  Speed: 30  Remaining Lane Distance: 87.4979907407
+Lane Distance covered: 12.5853425926  Speed: 30  Remaining Lane Distance: 87.4146574074
+Lane Distance covered: 14.2520092593  Speed: 30  Remaining Lane Distance: 85.7479907407
+Lane Distance covered: 14.3353425926  Speed: 30  Remaining Lane Distance: 85.6646574074
+
+Exceptional Event in Progress...
+Object: water
+Object Distance from Car: 6.93
+Object Speed: 17.46
+Object Direction wrt Car: same
+
+Retrieved Case:
+Object: 'water'
+Distance from Car: 1.05
+Direction wrt Car: 'same'
+Speed of Car and Object: 'me': 28.23, 'water': 2.09
+Reducing Speed to speed limit of 15
+
+Lane Distance covered: 15.5853425926  Speed: 30  Remaining Lane Distance: 84.4146574074
+Lane Distance covered: 15.6645626329  Speed: 28.519214508  Remaining Lane Distance: 84.3354373671
+Lane Distance covered: 15.7400619272  Speed: 27.1797459565  Remaining Lane Distance: 84.2599380728
+Lane Distance covered: 15.8121787461  Speed: 25.9620547936  Remaining Lane Distance: 84.1878212539
+Lane Distance covered: 15.881206736  Speed: 24.8500763772  Remaining Lane Distance: 84.118793264
+Lane Distance covered: 15.9474025031  Speed: 23.8304761455  Remaining Lane Distance: 84.0525974969
+Lane Distance covered: 16.0109916407  Speed: 22.892089531  Remaining Lane Distance: 83.9890083593
+Lane Distance covered: 16.0721735714  Speed: 22.0254950448  Remaining Lane Distance: 83.9278264286
+Lane Distance covered: 16.1311254737  Speed: 21.2226848397  Remaining Lane Distance: 83.8688745263
+Lane Distance covered: 16.1880054949  Speed: 20.476807629  Remaining Lane Distance: 83.8119945051
+Lane Distance covered: 16.2429554004  Speed: 19.7819660024  Remaining Lane Distance: 83.7570445996
+Lane Distance covered: 16.2961027758  Speed: 19.1330551144  Remaining Lane Distance: 83.7038972242
+Lane Distance covered: 16.3475628679  Speed: 18.5256331814  Remaining Lane Distance: 83.6524371321
+Lane Distance covered: 16.3974401365  Speed: 17.9558166741  Remaining Lane Distance: 83.6025598635
+Lane Distance covered: 16.4458295667  Speed: 17.4201948632  Remaining Lane Distance: 83.5541704333
+Lane Distance covered: 16.4928177879  Speed: 16.9157596576  Remaining Lane Distance: 83.5071822121
+Lane Distance covered: 16.5384840313  Speed: 16.4398476242  Remaining Lane Distance: 83.4615159687
+Lane Distance covered: 16.5829009529  Speed: 15.990091785  Remaining Lane Distance: 83.4170990471
+Lane Distance covered: 16.6261353455  Speed: 15.5643813121  Remaining Lane Distance: 83.3738646545
+Lane Distance covered: 16.6682487556  Speed: 15.1608276482  Remaining Lane Distance: 83.3317512444
+Lane Distance covered: 16.7099154223  Speed: 15  Remaining Lane Distance: 83.2900845777
+
+Exceptional event concluded...
+
+Speed reduced to 15. Speed will be increased to speed limit: 25
+
+Lane Distance covered: 16.9203337093  Speed: 15.2501944444  Remaining Lane Distance: 83.0796662907
+Lane Distance covered: 16.9628343575  Speed: 15.3002333333  Remaining Lane Distance: 83.0371656425
+Lane Distance covered: 17.8420366723  Speed: 16.3010111111  Remaining Lane Distance: 82.1579633277
+Lane Distance covered: 17.8874562556  Speed: 16.35105  Remaining Lane Distance: 82.1125437444
+Lane Distance covered: 18.8250372741  Speed: 17.3518277778  Remaining Lane Distance: 81.1749627259
+Lane Distance covered: 18.8733757927  Speed: 17.4018666667  Remaining Lane Distance: 81.1266242073
+Lane Distance covered: 19.8693355149  Speed: 18.4026444444  Remaining Lane Distance: 80.1306644851
+Lane Distance covered: 19.9205929686  Speed: 18.4526833333  Remaining Lane Distance: 80.0794070314
+Lane Distance covered: 20.9749313945  Speed: 19.4534611111  Remaining Lane Distance: 79.0250686055
+Lane Distance covered: 21.0291077834  Speed: 19.5035  Remaining Lane Distance: 78.9708922166
+Lane Distance covered: 22.141824913  Speed: 20.5042777778  Remaining Lane Distance: 77.858175087
+Lane Distance covered: 22.1989202371  Speed: 20.5543166667  Remaining Lane Distance: 77.8010797629
+Lane Distance covered: 23.3700160704  Speed: 21.5550944444  Remaining Lane Distance: 76.6299839296
+Lane Distance covered: 23.4300303297  Speed: 21.6051333333  Remaining Lane Distance: 76.5699696703
+Lane Distance covered: 24.6595048667  Speed: 22.6059111111  Remaining Lane Distance: 75.3404951333
+Lane Distance covered: 24.7224380612  Speed: 22.65595  Remaining Lane Distance: 75.2775619388
+Lane Distance covered: 26.0102913019  Speed: 23.6567277778  Remaining Lane Distance: 73.9897086981
+Lane Distance covered: 26.0761434315  Speed: 23.7067666667  Remaining Lane Distance: 73.9238565685
+Lane Distance covered: 27.422375376  Speed: 24.7075444444  Remaining Lane Distance: 72.577624624
+Lane Distance covered: 27.4911464408  Speed: 24.7575833333  Remaining Lane Distance: 72.5088535592
+Lane Distance covered: 28.8787317803  Speed: 25  Remaining Lane Distance: 71.1212682197
+Lane Distance covered: 28.9481762248  Speed: 25  Remaining Lane Distance: 71.0518237752
+Lane Distance covered: 30.3370651136  Speed: 25  Remaining Lane Distance: 69.6629348864
+Lane Distance covered: 30.4065095581  Speed: 25  Remaining Lane Distance: 69.5934904419
+Lane Distance covered: 31.795398447  Speed: 25  Remaining Lane Distance: 68.204601553
+Lane Distance covered: 31.8648428914  Speed: 25  Remaining Lane Distance: 68.1351571086
+Lane Distance covered: 33.2537317803  Speed: 25  Remaining Lane Distance: 66.7462682197
+Lane Distance covered: 33.3231762248  Speed: 25  Remaining Lane Distance: 66.6768237752
+Lane Distance covered: 34.7120651136  Speed: 25  Remaining Lane Distance: 65.2879348864
+Lane Distance covered: 34.7815095581  Speed: 25  Remaining Lane Distance: 65.2184904419
+Lane Distance covered: 36.170398447  Speed: 25  Remaining Lane Distance: 63.829601553
+Lane Distance covered: 36.2398428914  Speed: 25  Remaining Lane Distance: 63.7601571086
+Lane Distance covered: 37.6287317803  Speed: 25  Remaining Lane Distance: 62.3712682197
+
+Exceptional Event in Progress...
+Object: water
+Object Distance from Car: 4.47
+Object Speed: 9.05
+Object Direction wrt Car: opposite
+
+Retrieved Case:
+Object: 'water'
+Distance from Car: 2.27
+Direction wrt Car: 'opposite'
+Speed of Car and Object: 'me': 29.600000000000001, 'water': 4.81
+Reducing Speed to speed limit of 12
+
+Lane Distance covered: 37.6287317803  Speed: 25  Remaining Lane Distance: 62.3712682197
+Lane Distance covered: 37.6943164228  Speed: 23.6104713093  Remaining Lane Distance: 62.3056835772
+Lane Distance covered: 37.7564492572  Speed: 22.367820373  Remaining Lane Distance: 62.2435507428
+Lane Distance covered: 37.8154809758  Speed: 21.2514187042  Remaining Lane Distance: 62.1845190242
+Lane Distance covered: 37.8717107561  Speed: 20.2427208892  Remaining Lane Distance: 62.1282892439
+Lane Distance covered: 37.9253959723  Speed: 19.3266778426  Remaining Lane Distance: 62.0746040277
+Lane Distance covered: 37.9767597058  Speed: 18.4909440548  Remaining Lane Distance: 62.0232402942
+Lane Distance covered: 38.0259966291  Speed: 17.7252924073  Remaining Lane Distance: 61.9740033709
+Lane Distance covered: 38.0732776722  Speed: 17.0211755065  Remaining Lane Distance: 61.9267223278
+Lane Distance covered: 38.1187537618  Speed: 16.371392261  Remaining Lane Distance: 61.8812462382
+Lane Distance covered: 38.1625588486  Speed: 15.7698312496  Remaining Lane Distance: 61.8374411514
+Lane Distance covered: 38.204812379  Speed: 15.2112709227  Remaining Lane Distance: 61.795187621
+Lane Distance covered: 38.2456213301  Speed: 14.6912224188  Remaining Lane Distance: 61.7543786699
+Lane Distance covered: 38.2850818988  Speed: 14.2058047115  Remaining Lane Distance: 61.7149181012
+Lane Distance covered: 38.3232809114  Speed: 13.7516445593  Remaining Lane Distance: 61.6767190886
+Lane Distance covered: 38.3602970105  Speed: 13.3257956714  Remaining Lane Distance: 61.6397029895
+Lane Distance covered: 38.3962016575  Speed: 12.9256729022  Remaining Lane Distance: 61.6037983425
+Lane Distance covered: 38.4310599861  Speed: 12.5489983021  Remaining Lane Distance: 61.5689400139
+Lane Distance covered: 38.4649315322  Speed: 12.1937565954  Remaining Lane Distance: 61.5350684678
+Lane Distance covered: 38.4982648655  Speed: 12  Remaining Lane Distance: 61.5017351345
+
+Exceptional event concluded...
+
+Speed reduced to 12. Speed will be increased to speed limit: 25
+
+Lane Distance covered: 38.5317371958  Speed: 12.0500388889  Remaining Lane Distance: 61.4682628042
+Lane Distance covered: 39.2303731526  Speed: 13.0508166667  Remaining Lane Distance: 60.7696268474
+Lane Distance covered: 39.266764418  Speed: 13.1008555556  Remaining Lane Distance: 60.733235582
+Lane Distance covered: 40.0237790785  Speed: 14.1016333333  Remaining Lane Distance: 59.9762209215
+Lane Distance covered: 40.0630892791  Speed: 14.1516722222  Remaining Lane Distance: 59.9369107209
+Lane Distance covered: 40.8784826433  Speed: 15.15245  Remaining Lane Distance: 59.1215173567
+Lane Distance covered: 40.9207117791  Speed: 15.2024888889  Remaining Lane Distance: 59.0792882209
+Lane Distance covered: 41.794483847  Speed: 16.2032666667  Remaining Lane Distance: 58.205516153
+Lane Distance covered: 41.839631918  Speed: 16.2533055556  Remaining Lane Distance: 58.160368082
+Lane Distance covered: 42.7717826896  Speed: 17.2540833333  Remaining Lane Distance: 57.2282173104
+Lane Distance covered: 42.8198496958  Speed: 17.3041222222  Remaining Lane Distance: 57.1801503042
+Lane Distance covered: 43.8103791711  Speed: 18.3049  Remaining Lane Distance: 56.1896208289
+Lane Distance covered: 43.8613651124  Speed: 18.3549388889  Remaining Lane Distance: 56.1386348876
+Lane Distance covered: 44.9102732915  Speed: 19.3557166667  Remaining Lane Distance: 55.0897267085
+Lane Distance covered: 44.964178168  Speed: 19.4057555556  Remaining Lane Distance: 55.035821832
+Lane Distance covered: 46.0714650507  Speed: 20.4065333333  Remaining Lane Distance: 53.9285349493
+Lane Distance covered: 46.1282888624  Speed: 20.4565722222  Remaining Lane Distance: 53.8717111376
+Lane Distance covered: 47.2939544489  Speed: 21.45735  Remaining Lane Distance: 52.7060455511
+Lane Distance covered: 47.3536971958  Speed: 21.5073888889  Remaining Lane Distance: 52.6463028042
+Lane Distance covered: 48.5777414859  Speed: 22.5081666667  Remaining Lane Distance: 51.4222585141
+Lane Distance covered: 48.640403168  Speed: 22.5582055556  Remaining Lane Distance: 51.359596832
+Lane Distance covered: 49.9228261618  Speed: 23.5589833333  Remaining Lane Distance: 50.0771738382
+Lane Distance covered: 49.9884067791  Speed: 23.6090222222  Remaining Lane Distance: 50.0115932209
+Lane Distance covered: 51.3292084766  Speed: 24.6098  Remaining Lane Distance: 48.6707915234
+Lane Distance covered: 51.3977080291  Speed: 24.6598388889  Remaining Lane Distance: 48.6022919709
+Lane Distance covered: 52.7838465013  Speed: 25  Remaining Lane Distance: 47.2161534987
+Lane Distance covered: 52.8532909458  Speed: 25  Remaining Lane Distance: 47.1467090542
+Lane Distance covered: 54.2421798347  Speed: 25  Remaining Lane Distance: 45.7578201653
+Lane Distance covered: 54.3116242791  Speed: 25  Remaining Lane Distance: 45.6883757209
+Lane Distance covered: 55.700513168  Speed: 25  Remaining Lane Distance: 44.299486832
+Lane Distance covered: 55.7699576124  Speed: 25  Remaining Lane Distance: 44.2300423876
+Lane Distance covered: 57.1588465013  Speed: 25  Remaining Lane Distance: 42.8411534987
+Lane Distance covered: 57.2282909458  Speed: 25  Remaining Lane Distance: 42.7717090542
+Lane Distance covered: 58.6171798347  Speed: 25  Remaining Lane Distance: 41.3828201653
+Lane Distance covered: 58.6866242791  Speed: 25  Remaining Lane Distance: 41.3133757209
+Lane Distance covered: 60.075513168  Speed: 25  Remaining Lane Distance: 39.924486832
+Lane Distance covered: 60.1449576124  Speed: 25  Remaining Lane Distance: 39.8550423876
+Lane Distance covered: 61.5338465013  Speed: 25  Remaining Lane Distance: 38.4661534987
+Lane Distance covered: 61.6032909458  Speed: 25  Remaining Lane Distance: 38.3967090542
+Lane Distance covered: 62.9921798347  Speed: 25  Remaining Lane Distance: 37.0078201653
+Lane Distance covered: 63.0616242791  Speed: 25  Remaining Lane Distance: 36.9383757209
+Lane Distance covered: 64.450513168  Speed: 25  Remaining Lane Distance: 35.549486832
+Lane Distance covered: 64.5199576124  Speed: 25  Remaining Lane Distance: 35.4800423876
+
+Attempting to change lanes...
+Lane change successful...
+
+Lane Distance covered: 65.9088465013  Speed: 25  Remaining Lane Distance: 34.0911534987
+Lane Distance covered: 65.9782909458  Speed: 25  Remaining Lane Distance: 34.0217090542
+Lane Distance covered: 67.3671798347  Speed: 25  Remaining Lane Distance: 32.6328201653
+Lane Distance covered: 67.4366242791  Speed: 25  Remaining Lane Distance: 32.5633757209
+Lane Distance covered: 68.825513168  Speed: 25  Remaining Lane Distance: 31.174486832
+Lane Distance covered: 68.8949576124  Speed: 25  Remaining Lane Distance: 31.1050423876
+Lane Distance covered: 70.2838465013  Speed: 25  Remaining Lane Distance: 29.7161534987
+Lane Distance covered: 70.3532909458  Speed: 25  Remaining Lane Distance: 29.6467090542
+Lane Distance covered: 71.7421798347  Speed: 25  Remaining Lane Distance: 28.2578201653
+Lane Distance covered: 71.8116242791  Speed: 25  Remaining Lane Distance: 28.1883757209
+Lane Distance covered: 73.200513168  Speed: 25  Remaining Lane Distance: 26.799486832
+Lane Distance covered: 73.2699576124  Speed: 25  Remaining Lane Distance: 26.7300423876
+Lane Distance covered: 74.6588465013  Speed: 25  Remaining Lane Distance: 25.3411534987
+Lane Distance covered: 74.7282909458  Speed: 25  Remaining Lane Distance: 25.2717090542
+
+Exceptional Event in Progress...
+Object: water
+Object Distance from Car: 11.32
+Object Speed: 7.39
+Object Direction wrt Car: same
+
+Retrieved Case:
+Object: 'water'
+Distance from Car: 5.82
+Direction wrt Car: 'same'
+Speed of Car and Object: 'me': 29.140000000000001, 'water': 1.06
+Reducing Speed to speed limit of 20
+
+Lane Distance covered: 74.7977353902  Speed: 25  Remaining Lane Distance: 25.2022646098
+Lane Distance covered: 74.8532909458  Speed: 20  Remaining Lane Distance: 25.1467090542
+
+Exceptional event concluded...
+
+Speed reduced to 20. Speed will be increased to speed limit: 25
+
+Lane Distance covered: 75.9352559149  Speed: 20.9507388889  Remaining Lane Distance: 24.0647440851
+Lane Distance covered: 75.9935914087  Speed: 21.0007777778  Remaining Lane Distance: 24.0064085913
+Lane Distance covered: 77.1894906371  Speed: 22.0015555556  Remaining Lane Distance: 22.8105093629
+Lane Distance covered: 77.2507450661  Speed: 22.0515944444  Remaining Lane Distance: 22.7492549339
+Lane Distance covered: 78.5050229982  Speed: 23.0523722222  Remaining Lane Distance: 21.4949770018
+Lane Distance covered: 78.5691963624  Speed: 23.1024111111  Remaining Lane Distance: 21.4308036376
+Lane Distance covered: 79.8818529982  Speed: 24.1031888889  Remaining Lane Distance: 20.1181470018
+Lane Distance covered: 79.9489452976  Speed: 24.1532277778  Remaining Lane Distance: 20.0510547024
+Lane Distance covered: 81.3191034458  Speed: 25  Remaining Lane Distance: 18.6808965542
+Lane Distance covered: 81.3885478902  Speed: 25  Remaining Lane Distance: 18.6114521098
+Lane Distance covered: 82.7774367791  Speed: 25  Remaining Lane Distance: 17.2225632209
+Lane Distance covered: 82.8468812236  Speed: 25  Remaining Lane Distance: 17.1531187764
+Lane Distance covered: 84.2357701124  Speed: 25  Remaining Lane Distance: 15.7642298876
+Lane Distance covered: 84.3052145569  Speed: 25  Remaining Lane Distance: 15.6947854431
+Lane Distance covered: 85.6941034458  Speed: 25  Remaining Lane Distance: 14.3058965542
+Lane Distance covered: 85.7635478902  Speed: 25  Remaining Lane Distance: 14.2364521098
+Lane Distance covered: 87.1524367791  Speed: 25  Remaining Lane Distance: 12.8475632209
+Lane Distance covered: 87.2218812236  Speed: 25  Remaining Lane Distance: 12.7781187764
+Lane Distance covered: 88.6107701124  Speed: 25  Remaining Lane Distance: 11.3892298876
+Lane Distance covered: 88.6802145569  Speed: 25  Remaining Lane Distance: 11.3197854431
+Lane Distance covered: 90.0691034458  Speed: 25  Remaining Lane Distance: 9.93089655422
+Lane Distance covered: 90.1385478902  Speed: 25  Remaining Lane Distance: 9.86145210978
+
+Exceptional Event in Progress...
+Object: bus
+Object Distance from Car: 14.25
+Object Speed: 7.2
+Object Direction wrt Car: left
+
+Retrieved Case:
+Object: 'bus'
+Distance from Car: 18.38
+Direction wrt Car: 'left'
+Speed of Car and Object: 'me': 27.609999999999999, 'bus': 4.5
+Increasing Speed to speed limit of 28
+
+Lane Distance covered: 90.6941034458  Speed: 25  Remaining Lane Distance: 9.30589655422
+Lane Distance covered: 90.7704977359  Speed: 27.5019444444  Remaining Lane Distance: 9.2295022641
+Lane Distance covered: 90.8482755137  Speed: 28  Remaining Lane Distance: 9.15172448632
+
+Exceptional event concluded...
+
+Speed increased to 28. Speed will be decreased to speed limit: 25
+
+Lane Distance covered: 91.781608847  Speed: 28  Remaining Lane Distance: 8.21839115299
+Lane Distance covered: 91.8593866248  Speed: 28  Remaining Lane Distance: 8.14061337521
+Lane Distance covered: 93.4149421803  Speed: 28  Remaining Lane Distance: 6.58505781966
+Lane Distance covered: 93.4927199581  Speed: 28  Remaining Lane Distance: 6.50728004188
+Lane Distance covered: 95.0482755137  Speed: 28  Remaining Lane Distance: 4.95172448632
+Lane Distance covered: 95.1260532915  Speed: 28  Remaining Lane Distance: 4.87394670855
+
+Braking Distance Reached...STOP sign in view...
+Lane Distance covered: 96.2516592056  Speed: 11.507496661  Remaining Lane Distance: 3.74834079438
+Lane Distance covered: 96.2822614999  Speed: 11.0168259339  Remaining Lane Distance: 3.71773850012
+Lane Distance covered: 96.7132338672  Speed: 5.77847933219  Remaining Lane Distance: 3.2867661328
+Lane Distance covered: 96.7288932553  Speed: 5.63737971716  Remaining Lane Distance: 3.27110674469
+Lane Distance covered: 96.9800904289  Speed: 3.73636707217  Remaining Lane Distance: 3.01990957114
+Lane Distance covered: 96.9902908775  Speed: 3.67216151232  Remaining Lane Distance: 3.0097091225
+Lane Distance covered: 97.1638358728  Speed: 2.71125794643  Remaining Lane Distance: 2.83616412715
+Lane Distance covered: 97.1712671506  Speed: 2.67525999225  Remaining Lane Distance: 2.8287328494
+Lane Distance covered: 97.3020484154  Speed: 2.10292274958  Remaining Lane Distance: 2.6979515846
+Lane Distance covered: 97.3078266296  Speed: 2.08015710296  Remaining Lane Distance: 2.69217337043
+Lane Distance covered: 97.4117815155  Speed: 1.70364309299  Remaining Lane Distance: 2.58821848453
+Lane Distance covered: 97.4164705939  Speed: 1.6880682455  Remaining Lane Distance: 2.58352940607
+Lane Distance covered: 97.5021502511  Speed: 1.42322130165  Remaining Lane Distance: 2.4978497489
+Lane Distance covered: 97.5060723581  Speed: 1.41195850966  Remaining Lane Distance: 2.49392764193
+Lane Distance covered: 97.5785687455  Speed: 1.21643915009  Remaining Lane Distance: 2.42143125452
+Lane Distance covered: 97.5819241669  Speed: 1.20795172141  Remaining Lane Distance: 2.41807583307
+Lane Distance covered: 97.6445008121  Speed: 1.05824015702  Remaining Lane Distance: 2.35549918789
+Lane Distance covered: 97.6474220259  Speed: 1.05163697878  Remaining Lane Distance: 2.35257797406
+Lane Distance covered: 97.7022886263  Speed: 0.933671317593  Remaining Lane Distance: 2.2977113737
+Lane Distance covered: 97.7048675206  Speed: 0.928401930971  Remaining Lane Distance: 2.29513247944
+Lane Distance covered: 97.7535854118  Speed: 0.833283121907  Remaining Lane Distance: 2.2464145882
+Lane Distance covered: 97.7558881621  Speed: 0.828990103373  Remaining Lane Distance: 2.24411183791
+Lane Distance covered: 97.799598847  Speed: 0.750825099754  Remaining Lane Distance: 2.20040115302
+Lane Distance covered: 97.8016745881  Speed: 0.747266794477  Remaining Lane Distance: 2.19832541193
+Lane Distance covered: 97.8412362758  Speed: 0.682005817583  Remaining Lane Distance: 2.15876372425
+Lane Distance covered: 97.8431224238  Speed: 0.679013287324  Remaining Lane Distance: 2.15687757623
+Lane Distance covered: 97.8791955593  Speed: 0.623786011393  Remaining Lane Distance: 2.12080444072
+Lane Distance covered: 97.8809212198  Speed: 0.621237784222  Remaining Lane Distance: 2.1190787802
+Lane Distance covered: 97.9140242013  Speed: 0.573955974252  Remaining Lane Distance: 2.08597579875
+Lane Distance covered: 97.9156124307  Speed: 0.571762586572  Remaining Lane Distance: 2.08438756934
+Lane Distance covered: 97.9461591239  Speed: 0.5308725678  Remaining Lane Distance: 2.05384087613
+Lane Distance covered: 97.947628476  Speed: 0.528966750438  Remaining Lane Distance: 2.05237152404
+Lane Distance covered: 97.9759541961  Speed: 0.493289880351  Remaining Lane Distance: 2.02404580386
+Lane Distance covered: 97.9773198076  Speed: 0.491620129861  Remaining Lane Distance: 2.02268019239
+Lane Distance covered: 98.0036997583  Speed: 0.460246921311  Remaining Lane Distance: 1.9963002417
+Lane Distance covered: 98.0049741282  Speed: 0.458773172634  Remaining Lane Distance: 1.99502587178
+Lane Distance covered: 98.0296367693  Speed: 0.430991199531  Remaining Lane Distance: 1.97036323066
+Lane Distance covered: 98.03083033  Speed: 0.429681842714  Remaining Lane Distance: 1.96916966999
+Lane Distance covered: 98.0539672535  Speed: 0.404925527847  Remaining Lane Distance: 1.94603274645
+Lane Distance covered: 98.0550887961  Speed: 0.403755307423  Remaining Lane Distance: 1.94491120393
+Lane Distance covered: 98.0768621447  Speed: 0.38157024246  Remaining Lane Distance: 1.92313785534
+Lane Distance covered: 98.0779191412  Speed: 0.380518750193  Remaining Lane Distance: 1.92208085881
+Lane Distance covered: 98.0984672649  Speed: 0.360535883528  Remaining Lane Distance: 1.9015327351
+Lane Distance covered: 98.0994661162  Speed: 0.359586458472  Remaining Lane Distance: 1.90053388382
+Lane Distance covered: 98.1102829318  Speed: 0  Remaining Lane Distance: 1.8897170682
+
+Car STOPPED...
+Waiting to move...
+
+Lane Distance covered: 98.1179277621  Speed: 0.500388888889  Remaining Lane Distance: 1.88207223795
+Lane Distance covered: 98.1194567281  Speed: 0.550427777778  Remaining Lane Distance: 1.8805432719
+Lane Distance covered: 98.1792254009  Speed: 1.55120555556  Remaining Lane Distance: 1.82077459906
+Lane Distance covered: 98.1836733022  Speed: 1.60124444444  Remaining Lane Distance: 1.81632669783
+Lane Distance covered: 98.3018206787  Speed: 2.60202222222  Remaining Lane Distance: 1.69817932128
+Lane Distance covered: 98.3091875151  Speed: 2.65206111111  Remaining Lane Distance: 1.69081248486
+Lane Distance covered: 98.4857135954  Speed: 3.65283888889  Remaining Lane Distance: 1.51428640462
+Lane Distance covered: 98.495999367  Speed: 3.70287777778  Remaining Lane Distance: 1.50400063301
+Lane Distance covered: 98.7309041509  Speed: 4.70365555556  Remaining Lane Distance: 1.26909584906
+Lane Distance covered: 98.7441088577  Speed: 4.75369444444  Remaining Lane Distance: 1.25589114227
+Lane Distance covered: 99.0373923454  Speed: 5.75447222222  Remaining Lane Distance: 0.962607654615
+Lane Distance covered: 99.0535159874  Speed: 5.80451111111  Remaining Lane Distance: 0.94648401264
+Lane Distance covered: 99.4051781787  Speed: 6.80528888889  Remaining Lane Distance: 0.594821821282
+Lane Distance covered: 99.4242207559  Speed: 6.85532777778  Remaining Lane Distance: 0.575779244121
+Lane Distance covered: 99.8342616509  Speed: 7.85610555556  Remaining Lane Distance: 0.16573834906
+Lane Distance covered: 99.8562231633  Speed: 7.90614444444  Remaining Lane Distance: 0.143776836714
+Lane Distance covered: 100.013845663  Speed: 8.25641666667  Remaining Lane Distance: -0.013845663286
+
+Lane Distance Reached
+Taking a left turn...
+
+Lane Distance covered: 0  Speed: 8.25641666667  Remaining Lane Distance: 100.0
+
+Speed Limit Sign in view...Speed Limit: 40
+Increasing speed to 40
+
+Lane Distance covered: 1.03135709877  Speed: 10.2579722222  Remaining Lane Distance: 98.9686429012
+Lane Distance covered: 1.08876282407  Speed: 10.35805  Remaining Lane Distance: 98.9112371759
+Lane Distance covered: 2.35363473765  Speed: 12.3596055556  Remaining Lane Distance: 97.6463652623
+Lane Distance covered: 2.4227162037  Speed: 12.4596833333  Remaining Lane Distance: 97.5772837963
+Lane Distance covered: 3.9211029321  Speed: 14.4612388889  Remaining Lane Distance: 96.0788970679
+Lane Distance covered: 4.00186013889  Speed: 14.5613166667  Remaining Lane Distance: 95.9981398611
+Lane Distance covered: 5.7337616821  Speed: 16.5628722222  Remaining Lane Distance: 94.2662383179
+Lane Distance covered: 5.82619462963  Speed: 16.66295  Remaining Lane Distance: 94.1738053704
+Lane Distance covered: 7.79161098765  Speed: 18.6645055556  Remaining Lane Distance: 92.2083890123
+Lane Distance covered: 7.89571967593  Speed: 18.7645833333  Remaining Lane Distance: 92.1042803241
+Lane Distance covered: 10.0946508488  Speed: 20.7661388889  Remaining Lane Distance: 89.9053491512
+Lane Distance covered: 10.2104352778  Speed: 20.8662166667  Remaining Lane Distance: 89.7895647222
+Lane Distance covered: 12.6428812654  Speed: 22.8677722222  Remaining Lane Distance: 87.3571187346
+Lane Distance covered: 12.7703414352  Speed: 22.96785  Remaining Lane Distance: 87.2296585648
+Lane Distance covered: 15.4363022377  Speed: 24.9694055556  Remaining Lane Distance: 84.5636977623
+Lane Distance covered: 15.5752991512  Speed: 25.0194444444  Remaining Lane Distance: 84.4247008488
+Lane Distance covered: 18.4136161265  Speed: 26.0202222222  Remaining Lane Distance: 81.5863838735
+Lane Distance covered: 18.5584509105  Speed: 26.0702611111  Remaining Lane Distance: 81.4415490895
+Lane Distance covered: 21.5135252932  Speed: 27.0710388889  Remaining Lane Distance: 78.4864747068
+Lane Distance covered: 21.6641979475  Speed: 27.1210777778  Remaining Lane Distance: 78.3358020525
+
+Exceptional Event in Progress...
+Object: pedestrian
+Object Distance from Car: 2.74
+Object Speed: 0.54
+Object Direction wrt Car: left
+
+Retrieved Case:
+Object: 'pedestrian'
+Distance from Car: 9.79
+Direction wrt Car: 'left'
+Speed of Car and Object: 'me': 27.530000000000001, 'pedestrian': 2.7400000000000002
+Increasing Speed to speed limit of 30.53
+
+Lane Distance covered: 22.4979014352  Speed: 27.4213111111  Remaining Lane Distance: 77.5020985648
+Lane Distance covered: 22.5768516821  Speed: 28.4220888889  Remaining Lane Distance: 77.4231483179
+Lane Distance covered: 22.6585818673  Speed: 29.4228666667  Remaining Lane Distance: 77.3414181327
+Lane Distance covered: 22.7430919907  Speed: 30.4236444444  Remaining Lane Distance: 77.2569080093
+Lane Distance covered: 22.8278975463  Speed: 30.53  Remaining Lane Distance: 77.1721024537
+
+Exceptional event concluded...
+
+Speed increased to 30.53. Speed will be increased to speed limit: 40
+
+
+Exceptional Event in Progress...
+Object: deer
+Object Distance from Car: 29.18
+Object Speed: 20.89
+Object Direction wrt Car: opposite
+
+Retrieved Case:
+Object: 'deer'
+Distance from Car: 10.79
+Direction wrt Car: 'left'
+Speed of Car and Object: 'me': 25.399999999999999, 'deer': 28.329999999999998
+Reducing Speed to speed limit of 10.4
+
+Lane Distance covered: 24.3656562963  Speed: 30.98035  Remaining Lane Distance: 75.6343437037
+Lane Distance covered: 24.4419213383  Speed: 27.455415136  Remaining Lane Distance: 75.5580786617
+Lane Distance covered: 24.5104885184  Speed: 24.6841848099  Remaining Lane Distance: 75.4895114816
+Lane Distance covered: 24.5728277363  Speed: 22.442118448  Remaining Lane Distance: 75.4271722637
+Lane Distance covered: 24.6300147286  Speed: 20.5873172267  Remaining Lane Distance: 75.3699852714
+Lane Distance covered: 24.6828626566  Speed: 19.0252540959  Remaining Lane Distance: 75.3171373434
+Lane Distance covered: 24.7320023934  Speed: 17.690305245  Remaining Lane Distance: 75.2679976066
+Lane Distance covered: 24.7779339756  Speed: 16.5353695869  Remaining Lane Distance: 75.2220660244
+Lane Distance covered: 24.821060915  Speed: 15.5256981869  Remaining Lane Distance: 75.178939085
+Lane Distance covered: 24.8617138465  Speed: 14.6350553378  Remaining Lane Distance: 75.1382861535
+Lane Distance covered: 24.9001672857  Speed: 13.8432380999  Remaining Lane Distance: 75.0998327143
+Lane Distance covered: 24.9366517897  Speed: 13.1344214555  Remaining Lane Distance: 75.0633482103
+Lane Distance covered: 24.9713629662  Speed: 12.4960235368  Remaining Lane Distance: 75.0286370338
+Lane Distance covered: 25.0044682682  Speed: 11.9179087055  Remaining Lane Distance: 74.9955317318
+Lane Distance covered: 25.0361122017  Speed: 11.391816074  Remaining Lane Distance: 74.9638877983
+Lane Distance covered: 25.066420374  Speed: 10.9109420407  Remaining Lane Distance: 74.933579626
+Lane Distance covered: 25.0955026803  Speed: 10.4696302639  Remaining Lane Distance: 74.9044973197
+Lane Distance covered: 25.1243915692  Speed: 10.4  Remaining Lane Distance: 74.8756084308
+
+Exceptional event concluded...
+
+Speed reduced to 10.4. Speed will be increased to speed limit: 40
+
+Lane Distance covered: 25.4513431433  Speed: 10.9504277778  Remaining Lane Distance: 74.5486568567
+Lane Distance covered: 25.5125958439  Speed: 11.0505055556  Remaining Lane Distance: 74.4874041561
+Lane Distance covered: 26.8544072637  Speed: 13.0520611111  Remaining Lane Distance: 73.1455927363
+Lane Distance covered: 26.927335705  Speed: 13.1521388889  Remaining Lane Distance: 73.072664295
+Lane Distance covered: 28.5026619396  Speed: 15.1536944444  Remaining Lane Distance: 71.4973380604
+Lane Distance covered: 28.5872661217  Speed: 15.2537722222  Remaining Lane Distance: 71.4127338783
+Lane Distance covered: 30.3961071711  Speed: 17.2553277778  Remaining Lane Distance: 69.6038928289
+Lane Distance covered: 30.4923870939  Speed: 17.3554055556  Remaining Lane Distance: 69.5076129061
+Lane Distance covered: 32.5347429581  Speed: 19.3569611111  Remaining Lane Distance: 67.4652570419
+Lane Distance covered: 32.6426986217  Speed: 19.4570388889  Remaining Lane Distance: 67.3573013783
+Lane Distance covered: 34.9185693007  Speed: 21.4585944444  Remaining Lane Distance: 65.0814306993
+Lane Distance covered: 35.038200705  Speed: 21.5586722222  Remaining Lane Distance: 64.961799295
+Lane Distance covered: 37.5475861988  Speed: 23.5602277778  Remaining Lane Distance: 62.4524138012
+Lane Distance covered: 37.6788933439  Speed: 23.6603055556  Remaining Lane Distance: 62.3211066561
+Lane Distance covered: 40.4149828038  Speed: 25.3115888889  Remaining Lane Distance: 59.5850171962
+Lane Distance covered: 40.5558807359  Speed: 25.3616277778  Remaining Lane Distance: 59.4441192641
+Lane Distance covered: 43.4322180816  Speed: 26.3624055556  Remaining Lane Distance: 56.5677819184
+Lane Distance covered: 43.578953884  Speed: 26.4124444444  Remaining Lane Distance: 56.421046116
+Lane Distance covered: 46.5720486371  Speed: 27.4132222222  Remaining Lane Distance: 53.4279513629
+Lane Distance covered: 46.72462231  Speed: 27.4632611111  Remaining Lane Distance: 53.27537769
+Lane Distance covered: 49.8344744704  Speed: 28.4640388889  Remaining Lane Distance: 50.1655255296
+Lane Distance covered: 49.9928860137  Speed: 28.5140777778  Remaining Lane Distance: 50.0071139863
+Lane Distance covered: 53.2194955816  Speed: 29.5148555556  Remaining Lane Distance: 46.7805044184
+Lane Distance covered: 53.3837449951  Speed: 29.5648944444  Remaining Lane Distance: 46.6162550049
+Lane Distance covered: 56.7271119704  Speed: 30.5656722222  Remaining Lane Distance: 43.2728880296
+Lane Distance covered: 56.8971992544  Speed: 30.6157111111  Remaining Lane Distance: 43.1028007456
+Lane Distance covered: 60.3573236371  Speed: 31.6164888889  Remaining Lane Distance: 39.6426763629
+Lane Distance covered: 60.5332487914  Speed: 31.6665277778  Remaining Lane Distance: 39.4667512086
+Lane Distance covered: 64.1101305816  Speed: 32.6673055556  Remaining Lane Distance: 35.8898694184
+Lane Distance covered: 64.2918936062  Speed: 32.7173444444  Remaining Lane Distance: 35.7081063938
+
+Attempting to change lanes...
+No need to change lanes but turn ahead...
+
+Lane Distance covered: 67.9855328038  Speed: 33.7181222222  Remaining Lane Distance: 32.0144671962
+Lane Distance covered: 68.1731336988  Speed: 33.7681611111  Remaining Lane Distance: 31.8268663012
+Lane Distance covered: 71.9835303038  Speed: 34.7689388889  Remaining Lane Distance: 28.0164696962
+Lane Distance covered: 72.1769690692  Speed: 34.8189777778  Remaining Lane Distance: 27.8230309308
+Lane Distance covered: 76.1041230816  Speed: 35.8197555556  Remaining Lane Distance: 23.8958769184
+Lane Distance covered: 76.3033997174  Speed: 35.8697944444  Remaining Lane Distance: 23.6966002826
+
+Exceptional Event in Progress...
+Object: pedestrian
+Object Distance from Car: 23.67
+Object Speed: 18.34
+Object Direction wrt Car: left
+
+Retrieved Case:
+Object: 'pedestrian'
+Distance from Car: 2.09
+Direction wrt Car: 'left'
+Speed of Car and Object: 'me': 26.780000000000001, 'pedestrian': 17.719999999999999
+Reducing Speed to speed limit of 0
+
+Lane Distance covered: 77.4044251032  Speed: 36.1700277778  Remaining Lane Distance: 22.5955748968
+Lane Distance covered: 77.4044251032  Speed: 0  Remaining Lane Distance: 22.5955748968
+
+Exceptional event concluded...
+
+Speed reduced to 0. Speed will be increased to speed limit: 40
+
+Lane Distance covered: 77.4648887606  Speed: 1.45112777778  Remaining Lane Distance: 22.5351112394
+Lane Distance covered: 77.4733675723  Speed: 1.55120555556  Remaining Lane Distance: 22.5266324277
+Lane Distance covered: 77.7597012143  Speed: 3.55276111111  Remaining Lane Distance: 22.2402987857
+Lane Distance covered: 77.7798557667  Speed: 3.65283888889  Remaining Lane Distance: 22.2201442333
+Lane Distance covered: 78.2997042235  Speed: 5.65439444444  Remaining Lane Distance: 21.7002957765
+Lane Distance covered: 78.3315345167  Speed: 5.75447222222  Remaining Lane Distance: 21.6684654833
+Lane Distance covered: 79.0848977883  Speed: 7.75602777778  Remaining Lane Distance: 20.9151022117
+Lane Distance covered: 79.1284038223  Speed: 7.85610555556  Remaining Lane Distance: 20.8715961777
+Lane Distance covered: 80.1152819087  Speed: 9.85766111111  Remaining Lane Distance: 19.8847180913
+Lane Distance covered: 80.1704636834  Speed: 9.95773888889  Remaining Lane Distance: 19.8295363166
+Lane Distance covered: 81.3908565846  Speed: 11.9592944444  Remaining Lane Distance: 18.6091434154
+Lane Distance covered: 81.4577141001  Speed: 12.0593722222  Remaining Lane Distance: 18.5422858999
+Lane Distance covered: 82.9116218161  Speed: 14.0609277778  Remaining Lane Distance: 17.0883781839
+Lane Distance covered: 82.9901550723  Speed: 14.1610055556  Remaining Lane Distance: 17.0098449277
+Lane Distance covered: 84.6775776032  Speed: 16.1625611111  Remaining Lane Distance: 15.3224223968
+Lane Distance covered: 84.7677866001  Speed: 16.2626388889  Remaining Lane Distance: 15.2322133999
+Lane Distance covered: 86.6887239458  Speed: 18.2641944444  Remaining Lane Distance: 13.3112760542
+Lane Distance covered: 86.7906086834  Speed: 18.3642722222  Remaining Lane Distance: 13.2093913166
+Lane Distance covered: 88.9450608439  Speed: 20.3658277778  Remaining Lane Distance: 11.0549391561
+Lane Distance covered: 89.0586213223  Speed: 20.4659055556  Remaining Lane Distance: 10.9413786777
+Lane Distance covered: 91.4465882976  Speed: 22.4674611111  Remaining Lane Distance: 8.55341170239
+Lane Distance covered: 91.5718245167  Speed: 22.5675388889  Remaining Lane Distance: 8.42817548326
+Lane Distance covered: 94.1933063069  Speed: 24.5690944444  Remaining Lane Distance: 5.80669369313
+Lane Distance covered: 94.3302182667  Speed: 24.6691722222  Remaining Lane Distance: 5.66978173326
+
+Braking Distance Reached...Signal in view...
+Current Signal: RED. Reducing the speed of the car...
+
+Lane Distance covered: 96.6734297371  Speed: 15.3708295677  Remaining Lane Distance: 3.32657026293
+Lane Distance covered: 96.7133864079  Speed: 14.3844015097  Remaining Lane Distance: 3.28661359207
+Lane Distance covered: 97.2081881849  Speed: 6.02901050761  Remaining Lane Distance: 2.79181181515
+Lane Distance covered: 97.2244331273  Speed: 5.84817927433  Remaining Lane Distance: 2.77556687272
+Lane Distance covered: 97.4742172165  Speed: 3.5893380338  Remaining Lane Distance: 2.52578278346
+Lane Distance covered: 97.4839908124  Speed: 3.51849449832  Remaining Lane Distance: 2.51600918763
+Lane Distance covered: 97.6467686708  Speed: 2.49784921226  Remaining Lane Distance: 2.35323132915
+Lane Distance covered: 97.653604851  Speed: 2.46102484295  Remaining Lane Distance: 2.34639514903
+Lane Distance covered: 97.7723751979  Speed: 1.88886818579  Remaining Lane Distance: 2.22762480213
+Lane Distance covered: 97.7775602628  Speed: 1.86662337262  Remaining Lane Distance: 2.2224397372
+Lane Distance covered: 97.8700427448  Speed: 1.50436058845  Remaining Lane Distance: 2.1299572552
+Lane Distance covered: 97.8741805323  Speed: 1.48960350579  Remaining Lane Distance: 2.12581946769
+Lane Distance covered: 97.949320347  Speed: 1.24142977073  Remaining Lane Distance: 2.05067965297
+Lane Distance covered: 97.9527397688  Speed: 1.23099185003  Remaining Lane Distance: 2.04726023116
+Lane Distance covered: 98.0156506053  Speed: 1.05129946677  Remaining Lane Distance: 1.98434939469
+Lane Distance covered: 98.0185493934  Speed: 1.04356371993  Remaining Lane Distance: 1.98145060658
+Lane Distance covered: 98.0724138262  Speed: 0.907998260379  Remaining Lane Distance: 1.92758617375
+Lane Distance covered: 98.0749195422  Speed: 0.902057750343  Remaining Lane Distance: 1.92508045778
+Lane Distance covered: 98.1218450821  Speed: 0.796484684791  Remaining Lane Distance: 1.87815491794
+Lane Distance covered: 98.1240445082  Speed: 0.791793409156  Remaining Lane Distance: 1.8759554918
+Lane Distance covered: 98.1654945444  Speed: 0.707473084484  Remaining Lane Distance: 1.8345054556
+Lane Distance covered: 98.1674492214  Speed: 0.703683702902  Remaining Lane Distance: 1.83255077865
+Lane Distance covered: 98.2044787095  Speed: 0.634935713269  Remaining Lane Distance: 1.79552129045
+Lane Distance covered: 98.2062337575  Speed: 0.631817279997  Remaining Lane Distance: 1.79376624245
+Lane Distance covered: 98.2396267026  Speed: 0.574797467662  Remaining Lane Distance: 1.7603732974
+Lane Distance covered: 98.2412161214  Speed: 0.572190759429  Remaining Lane Distance: 1.75878387863
+Lane Distance covered: 98.2715700297  Speed: 0.524209344649  Remaining Lane Distance: 1.72842997033
+Lane Distance covered: 98.273020033  Speed: 0.522001211628  Remaining Lane Distance: 1.72697996696
+Lane Distance covered: 98.3008000388  Speed: 0.481122580385  Remaining Lane Distance: 1.69919996119
+Lane Distance covered: 98.3021312347  Speed: 0.479230522172  Remaining Lane Distance: 1.6978687653
+Lane Distance covered: 98.3277060443  Speed: 0.444028033322  Remaining Lane Distance: 1.67229395574
+Lane Distance covered: 98.3289349069  Speed: 0.442390554608  Remaining Lane Distance: 1.67106509309
+Lane Distance covered: 98.3526013999  Speed: 0.411790754549  Remaining Lane Distance: 1.64739860006
+Lane Distance covered: 98.353741292  Speed: 0.410361130009  Remaining Lane Distance: 1.64625870803
+Lane Distance covered: 98.3757418024  Speed: 0.383541629009  Remaining Lane Distance: 1.62425819758
+Lane Distance covered: 98.3768037017  Speed: 0.382283754103  Remaining Lane Distance: 1.62319629826
+Lane Distance covered: 98.3973384341  Speed: 0.358604435496  Remaining Lane Distance: 1.60266156593
+Lane Distance covered: 98.3983314618  Speed: 0.357489994716  Remaining Lane Distance: 1.60166853816
+Lane Distance covered: 98.4051974136  Speed: 0  Remaining Lane Distance: 1.59480258644
+
+Car STOPPED...
+Waiting for signal to turn GREEN...
+
+Current Signal: GREEN
+
+Lane Distance covered: 98.4197920895  Speed: 0.700544444444  Remaining Lane Distance: 1.58020791051
+Lane Distance covered: 98.4218770432  Speed: 0.750583333333  Remaining Lane Distance: 1.57812295681
+Lane Distance covered: 98.4927654691  Speed: 1.75136111111  Remaining Lane Distance: 1.50723453088
+Lane Distance covered: 98.497769358  Speed: 1.8014  Remaining Lane Distance: 1.502230642
+Lane Distance covered: 98.6270364876  Speed: 2.80217777778  Remaining Lane Distance: 1.37296351237
+Lane Distance covered: 98.6349593117  Speed: 2.85221666667  Remaining Lane Distance: 1.36504068829
+Lane Distance covered: 98.822605145  Speed: 3.85299444444  Remaining Lane Distance: 1.17739485496
+Lane Distance covered: 98.8334469043  Speed: 3.90303333333  Remaining Lane Distance: 1.1665530957
+Lane Distance covered: 99.0794714413  Speed: 4.90381111111  Remaining Lane Distance: 0.920528558662
+Lane Distance covered: 99.0932321358  Speed: 4.95385  Remaining Lane Distance: 0.906767864218
+Lane Distance covered: 99.3976353765  Speed: 5.95462777778  Remaining Lane Distance: 0.602364623477
+Lane Distance covered: 99.4143150062  Speed: 6.00466666667  Remaining Lane Distance: 0.585684993847
+Lane Distance covered: 99.7770969506  Speed: 7.00544444444  Remaining Lane Distance: 0.222903049403
+Lane Distance covered: 99.7966955154  Speed: 7.05548333333  Remaining Lane Distance: 0.203304484588
+Lane Distance covered: 100.000325994  Speed: 7.55587222222  Remaining Lane Distance: -0.000325993807046
+
+Lane Distance Reached
+Taking a right turn...
+
+Lane Distance covered: 0  Speed: 7.55587222222  Remaining Lane Distance: 100.0
+
+Speed Limit Sign in view...Speed Limit: 20
+Increasing speed to 20
+
+Lane Distance covered: 0.95351882716  Speed: 9.55742777778  Remaining Lane Distance: 99.0464811728
+Lane Distance covered: 1.00703263889  Speed: 9.65750555556  Remaining Lane Distance: 98.9929673611
+Lane Distance covered: 2.19406628086  Speed: 11.6590611111  Remaining Lane Distance: 97.8059337191
+Lane Distance covered: 2.25925583333  Speed: 11.7591388889  Remaining Lane Distance: 97.7407441667
+Lane Distance covered: 3.67980429012  Speed: 13.7606944444  Remaining Lane Distance: 96.3201957099
+Lane Distance covered: 3.75666958333  Speed: 13.8607722222  Remaining Lane Distance: 96.2433304167
+Lane Distance covered: 5.41073285494  Speed: 15.8623277778  Remaining Lane Distance: 94.5892671451
+Lane Distance covered: 5.49927388889  Speed: 15.9624055556  Remaining Lane Distance: 94.5007261111
+Lane Distance covered: 7.38685197531  Speed: 17.9639611111  Remaining Lane Distance: 92.6131480247
+Lane Distance covered: 7.48706875  Speed: 18.0640388889  Remaining Lane Distance: 92.51293125
+Lane Distance covered: 9.60807523148  Speed: 20.0500388889  Remaining Lane Distance: 90.3919247685
+Lane Distance covered: 9.71932533951  Speed: 20.0500388889  Remaining Lane Distance: 90.2806746605
+Lane Distance covered: 11.9443275  Speed: 20.0500388889  Remaining Lane Distance: 88.0556725
+Lane Distance covered: 12.055577608  Speed: 20.0500388889  Remaining Lane Distance: 87.944422392
+Lane Distance covered: 14.2805797685  Speed: 20.0500388889  Remaining Lane Distance: 85.7194202315
+Lane Distance covered: 14.3918298765  Speed: 20.0500388889  Remaining Lane Distance: 85.6081701235
+Lane Distance covered: 16.616832037  Speed: 20.0500388889  Remaining Lane Distance: 83.383167963
+Lane Distance covered: 16.7280821451  Speed: 20.0500388889  Remaining Lane Distance: 83.2719178549
+Lane Distance covered: 18.9530843056  Speed: 20.0500388889  Remaining Lane Distance: 81.0469156944
+Lane Distance covered: 19.0643344136  Speed: 20.0500388889  Remaining Lane Distance: 80.9356655864
+Lane Distance covered: 21.2893365741  Speed: 20.0500388889  Remaining Lane Distance: 78.7106634259
+Lane Distance covered: 21.4005866821  Speed: 20.0500388889  Remaining Lane Distance: 78.5994133179
+Lane Distance covered: 23.6255888426  Speed: 20.0500388889  Remaining Lane Distance: 76.3744111574
+Lane Distance covered: 23.7368389506  Speed: 20.0500388889  Remaining Lane Distance: 76.2631610494
+Lane Distance covered: 25.9618411111  Speed: 20.0500388889  Remaining Lane Distance: 74.0381588889
+Lane Distance covered: 26.0730912191  Speed: 20.0500388889  Remaining Lane Distance: 73.9269087809
+Lane Distance covered: 28.2980933796  Speed: 20.0500388889  Remaining Lane Distance: 71.7019066204
+Lane Distance covered: 28.4093434877  Speed: 20.0500388889  Remaining Lane Distance: 71.5906565123
+Lane Distance covered: 30.6343456481  Speed: 20.0500388889  Remaining Lane Distance: 69.3656543519
+Lane Distance covered: 30.7455957562  Speed: 20.0500388889  Remaining Lane Distance: 69.2544042438
+Lane Distance covered: 32.9705979167  Speed: 20.0500388889  Remaining Lane Distance: 67.0294020833
+Lane Distance covered: 33.0818480247  Speed: 20.0500388889  Remaining Lane Distance: 66.9181519753
+Lane Distance covered: 35.3068501852  Speed: 20.0500388889  Remaining Lane Distance: 64.6931498148
+Lane Distance covered: 35.4181002932  Speed: 20.0500388889  Remaining Lane Distance: 64.5818997068
+Lane Distance covered: 37.6431024537  Speed: 20.0500388889  Remaining Lane Distance: 62.3568975463
+Lane Distance covered: 37.7543525617  Speed: 20.0500388889  Remaining Lane Distance: 62.2456474383
+Lane Distance covered: 39.9793547222  Speed: 20.0500388889  Remaining Lane Distance: 60.0206452778
+Lane Distance covered: 40.0906048302  Speed: 20.0500388889  Remaining Lane Distance: 59.9093951698
+Lane Distance covered: 42.3156069907  Speed: 20.0500388889  Remaining Lane Distance: 57.6843930093
+Lane Distance covered: 42.4268570988  Speed: 20.0500388889  Remaining Lane Distance: 57.5731429012
+
+Exceptional Event in Progress...
+Object: water
+Object Distance from Car: 11.71
+Object Speed: 22.81
+Object Direction wrt Car: opposite
+
+Retrieved Case:
+Object: 'water'
+Distance from Car: 1.26
+Direction wrt Car: 'opposite'
+Speed of Car and Object: 'me': 25.960000000000001, 'water': 0.95999999999999996
+Reducing Speed to speed limit of 15
+
+Lane Distance covered: 43.0386631944  Speed: 20  Remaining Lane Distance: 56.9613368056
+Lane Distance covered: 43.0915095266  Speed: 19.0246795691  Remaining Lane Distance: 56.9084904734
+Lane Distance covered: 43.1419021521  Speed: 18.1413451783  Remaining Lane Distance: 56.8580978479
+Lane Distance covered: 43.1900616597  Speed: 17.3374227397  Remaining Lane Distance: 56.8099383403
+Lane Distance covered: 43.2361798535  Speed: 16.6025497872  Remaining Lane Distance: 56.7638201465
+Lane Distance covered: 43.2804245937  Speed: 15.9281064467  Remaining Lane Distance: 56.7195754063
+Lane Distance covered: 43.3229436535  Speed: 15.3068615543  Remaining Lane Distance: 56.6770563465
+Lane Distance covered: 43.3646103202  Speed: 15  Remaining Lane Distance: 56.6353896798
+
+Exceptional event concluded...
+
+Speed reduced to 15. Speed will be increased to speed limit: 20
+
+
+Exceptional Event in Progress...
+Object: bus
+Object Distance from Car: 12.1
+Object Speed: 3.59
+Object Direction wrt Car: same
+
+Retrieved Case:
+Object: 'bus'
+Distance from Car: 6.21
+Direction wrt Car: 'same'
+Speed of Car and Object: 'me': 28.649999999999999, 'bus': 2.71
+Increasing Speed to speed limit of 29.71
+
+Lane Distance covered: 44.4063093943  Speed: 16.2009333333  Remaining Lane Distance: 55.5936906057
+Lane Distance covered: 44.4582618326  Speed: 18.7028777778  Remaining Lane Distance: 55.5417381674
+Lane Distance covered: 44.5171641165  Speed: 21.2048222222  Remaining Lane Distance: 55.4828358835
+Lane Distance covered: 44.5830162461  Speed: 23.7067666667  Remaining Lane Distance: 55.4169837539
+Lane Distance covered: 44.6558182214  Speed: 26.2087111111  Remaining Lane Distance: 55.3441817786
+Lane Distance covered: 44.7355700424  Speed: 28.7106555556  Remaining Lane Distance: 55.2644299576
+Lane Distance covered: 44.8180978202  Speed: 29.71  Remaining Lane Distance: 55.1819021798
+
+Exceptional event concluded...
+
+Speed increased to 29.71. Speed will be decreased to speed limit: 20
+
+Lane Distance covered: 45.2270432227  Speed: 29.2676704703  Remaining Lane Distance: 54.7729567773
+Lane Distance covered: 45.3884346759  Speed: 29.050461563  Remaining Lane Distance: 54.6115653241
+Lane Distance covered: 48.3833326096  Speed: 25.1968484488  Remaining Lane Distance: 51.6166673904
+Lane Distance covered: 48.5223660327  Speed: 25.0260161479  Remaining Lane Distance: 51.4776339673
+Lane Distance covered: 51.169533933  Speed: 22.850230846  Remaining Lane Distance: 48.830466067
+Lane Distance covered: 51.2957935972  Speed: 22.75175901  Remaining Lane Distance: 48.7042064028
+Lane Distance covered: 53.7133464884  Speed: 20.956865639  Remaining Lane Distance: 46.2866535116
+Lane Distance covered: 53.8291803804  Speed: 20.8751200141  Remaining Lane Distance: 46.1708196196
+Lane Distance covered: 56.0758741953  Speed: 20.0500388889  Remaining Lane Distance: 43.9241258047
+Lane Distance covered: 56.1871243034  Speed: 20.0500388889  Remaining Lane Distance: 43.8128756966
+Lane Distance covered: 58.4121264639  Speed: 20.0500388889  Remaining Lane Distance: 41.5878735361
+Lane Distance covered: 58.5233765719  Speed: 20.0500388889  Remaining Lane Distance: 41.4766234281
+
+Exceptional Event in Progress...
+Object: car
+Object Distance from Car: 28.16
+Object Speed: 17.81
+Object Direction wrt Car: left
+
+Retrieved Case:
+Object: 'car'
+Distance from Car: 5.39
+Direction wrt Car: 'left'
+Speed of Car and Object: 'me': 16.899999999999999, 'car': 16.390000000000001
+Reducing Speed to speed limit of 0
+
+Lane Distance covered: 58.8014323435  Speed: 20  Remaining Lane Distance: 41.1985676565
+Lane Distance covered: 58.8014323435  Speed: 0  Remaining Lane Distance: 41.1985676565
+
+Exceptional event concluded...
+
+Speed reduced to 0. Speed will be increased to speed limit: 20
+
+Lane Distance covered: 58.8890003991  Speed: 1.75136111111  Remaining Lane Distance: 41.1109996009
+Lane Distance covered: 58.8991471737  Speed: 1.85143888889  Remaining Lane Distance: 41.1008528263
+Lane Distance covered: 59.218840075  Speed: 3.85299444444  Remaining Lane Distance: 40.781159925
+Lane Distance covered: 59.2406625904  Speed: 3.95307222222  Remaining Lane Distance: 40.7593374096
+Lane Distance covered: 59.7938703065  Speed: 5.95462777778  Remaining Lane Distance: 40.2061296935
+Lane Distance covered: 59.8273685626  Speed: 6.05470555556  Remaining Lane Distance: 40.1726314374
+Lane Distance covered: 60.6140910935  Speed: 8.05626111111  Remaining Lane Distance: 39.3859089065
+Lane Distance covered: 60.6592650904  Speed: 8.15633888889  Remaining Lane Distance: 39.3407349096
+Lane Distance covered: 61.6795024361  Speed: 10.1578944444  Remaining Lane Distance: 38.3204975639
+Lane Distance covered: 61.7363521737  Speed: 10.2579722222  Remaining Lane Distance: 38.2636478263
+
+Exceptional Event in Progress...
+Object: car
+Object Distance from Car: 1.8
+Object Speed: 15.61
+Object Direction wrt Car: left
+
+Retrieved Case:
+Object: 'car'
+Distance from Car: 25.89
+Direction wrt Car: 'left'
+Speed of Car and Object: 'me': 15.0, 'car': 21.0
+Reducing Speed to speed limit of 0
+
+Lane Distance covered: 62.7546435626  Speed: 11.9092555556  Remaining Lane Distance: 37.2453564374
+Lane Distance covered: 62.7656877832  Speed: 3.97591939334  Remaining Lane Distance: 37.2343122168
+Lane Distance covered: 62.7742751004  Speed: 3.09143419669  Remaining Lane Distance: 37.2257248996
+Lane Distance covered: 62.7813767108  Speed: 2.55657974802  Remaining Lane Distance: 37.2186232892
+Lane Distance covered: 62.7874620382  Speed: 2.19071788067  Remaining Lane Distance: 37.2125379618
+Lane Distance covered: 62.7928010203  Speed: 1.92203352636  Remaining Lane Distance: 37.2071989797
+Lane Distance covered: 62.7975654214  Speed: 1.71518439401  Remaining Lane Distance: 37.2024345786
+Lane Distance covered: 62.8018722008  Speed: 1.55044061118  Remaining Lane Distance: 37.1981277992
+Lane Distance covered: 62.8058050028  Speed: 1.41580871845  Remaining Lane Distance: 37.1941949972
+Lane Distance covered: 62.8094259229  Speed: 1.30353121075  Remaining Lane Distance: 37.1905740771
+Lane Distance covered: 62.81278244  Speed: 1.20834615941  Remaining Lane Distance: 37.18721756
+Lane Distance covered: 62.8159117377  Speed: 1.12654719411  Remaining Lane Distance: 37.1840882623
+Lane Distance covered: 62.8188435215  Speed: 1.05544215072  Remaining Lane Distance: 37.1811564785
+Lane Distance covered: 62.8216019239  Speed: 0.993024885327  Remaining Lane Distance: 37.1783980761
+Lane Distance covered: 62.8242068344  Speed: 0.937767751598  Remaining Lane Distance: 37.1757931656
+Lane Distance covered: 62.8266748501  Speed: 0.888485662756  Remaining Lane Distance: 37.1733251499
+Lane Distance covered: 62.8290199732  Speed: 0.844244330108  Remaining Lane Distance: 37.1709800268
+Lane Distance covered: 62.8312541307  Speed: 0.804296696654  Remaining Lane Distance: 37.1687458693
+Lane Distance covered: 62.8333875693  Speed: 0.768037896803  Remaining Lane Distance: 37.1666124307
+Lane Distance covered: 62.8354291602  Speed: 0.7349727022  Remaining Lane Distance: 37.1645708398
+Lane Distance covered: 62.8373866368  Speed: 0.704691573517  Remaining Lane Distance: 37.1626133632
+Lane Distance covered: 62.8392667833  Speed: 0.676852763171  Remaining Lane Distance: 37.1607332167
+Lane Distance covered: 62.8410755854  Speed: 0.651168749016  Remaining Lane Distance: 37.1589244146
+Lane Distance covered: 62.8428183516  Speed: 0.627395818154  Remaining Lane Distance: 37.1571816484
+Lane Distance covered: 62.8444998126  Speed: 0.60532597553  Remaining Lane Distance: 37.1555001874
+Lane Distance covered: 62.8461242031  Speed: 0.584780591109  Remaining Lane Distance: 37.1538757969
+Lane Distance covered: 62.8476953291  Speed: 0.565605363065  Remaining Lane Distance: 37.1523046709
+Lane Distance covered: 62.8492166244  Speed: 0.547666288269  Remaining Lane Distance: 37.1507833756
+Lane Distance covered: 62.8506911978  Speed: 0.530846411716  Remaining Lane Distance: 37.1493088022
+Lane Distance covered: 62.8521218733  Speed: 0.515043184038  Remaining Lane Distance: 37.1478781267
+Lane Distance covered: 62.8535112241  Speed: 0.500166297906  Remaining Lane Distance: 37.1464887759
+Lane Distance covered: 62.8548616016  Speed: 0.486135904668  Remaining Lane Distance: 37.1451383984
+Lane Distance covered: 62.8561751603  Speed: 0.472881135224  Remaining Lane Distance: 37.1438248397
+Lane Distance covered: 62.8574538794  Speed: 0.460338866028  Remaining Lane Distance: 37.1425461206
+Lane Distance covered: 62.8586995813  Speed: 0.448452683957  Remaining Lane Distance: 37.1413004187
+Lane Distance covered: 62.859913948  Speed: 0.437172013501  Remaining Lane Distance: 37.140086052
+Lane Distance covered: 62.8610985351  Speed: 0.426451377251  Remaining Lane Distance: 37.1389014649
+Lane Distance covered: 62.8622547845  Speed: 0.416249766429  Remaining Lane Distance: 37.1377452155
+Lane Distance covered: 62.8633840348  Speed: 0.406530102791  Remaining Lane Distance: 37.1366159652
+Lane Distance covered: 62.8644875314  Speed: 0.397258776714  Remaining Lane Distance: 37.1355124686
+Lane Distance covered: 62.8655664349  Speed: 0.388405249166  Remaining Lane Distance: 37.1344335651
+Lane Distance covered: 62.8666218285  Speed: 0.379941707431  Remaining Lane Distance: 37.1333781715
+Lane Distance covered: 62.8676547251  Speed: 0.371842766299  Remaining Lane Distance: 37.1323452749
+Lane Distance covered: 62.8686660729  Speed: 0.364085207838  Remaining Lane Distance: 37.1313339271
+Lane Distance covered: 62.8696567611  Speed: 0.356647754045  Remaining Lane Distance: 37.1303432389
+Lane Distance covered: 62.8706276246  Speed: 0  Remaining Lane Distance: 37.1293723754
+
+Exceptional event concluded...
+
+Speed reduced to 0. Speed will be increased to speed limit: 20
+
+Lane Distance covered: 62.8745195382  Speed: 0.350272222222  Remaining Lane Distance: 37.1254804618
+Lane Distance covered: 62.8768824857  Speed: 0.45035  Remaining Lane Distance: 37.1231175143
+Lane Distance covered: 63.0408988437  Speed: 2.45190555556  Remaining Lane Distance: 36.9591011563
+Lane Distance covered: 63.054937532  Speed: 2.55198333333  Remaining Lane Distance: 36.945062468
+Lane Distance covered: 63.4524687048  Speed: 4.55353888889  Remaining Lane Distance: 36.5475312952
+Lane Distance covered: 63.4781831338  Speed: 4.65361666667  Remaining Lane Distance: 36.5218168662
+Lane Distance covered: 64.1092291215  Speed: 6.65517222222  Remaining Lane Distance: 35.8907708785
+Lane Distance covered: 64.1466192913  Speed: 6.75525  Remaining Lane Distance: 35.8533807087
+Lane Distance covered: 65.0111800937  Speed: 8.75680555556  Remaining Lane Distance: 34.9888199063
+
+Attempting to change lanes...
+Lane Distance covered: 65.0602460042  Speed: 8.85688333333  Remaining Lane Distance: 34.9397539958
+Lane Distance covered: 66.1583216215  Speed: 10.8584388889  Remaining Lane Distance: 33.8416783785
+Lane Distance covered: 66.2190632727  Speed: 10.9585166667  Remaining Lane Distance: 33.7809367273
+Lane Distance covered: 67.5506537048  Speed: 12.9600722222  Remaining Lane Distance: 32.4493462952
+Lane Distance covered: 67.6230710968  Speed: 13.06015  Remaining Lane Distance: 32.3769289032
+Lane Distance covered: 69.1881763437  Speed: 15.0617055556  Remaining Lane Distance: 30.8118236563
+Lane Distance covered: 69.2722694764  Speed: 15.1617833333  Remaining Lane Distance: 30.7277305236
+Lane Distance covered: 71.0708895382  Speed: 17.1633388889  Remaining Lane Distance: 28.9291104618
+Lane Distance covered: 71.1666584116  Speed: 17.2634166667  Remaining Lane Distance: 28.8333415884
+Lane Distance covered: 73.1987932882  Speed: 19.2649722222  Remaining Lane Distance: 26.8012067118
+Lane Distance covered: 73.3062379024  Speed: 19.36505  Remaining Lane Distance: 26.6937620976
+Lane Distance covered: 75.5200828406  Speed: 20.0500388889  Remaining Lane Distance: 24.4799171594
+Lane Distance covered: 75.6313329487  Speed: 20.0500388889  Remaining Lane Distance: 24.3686670513
+Lane Distance covered: 77.8563351092  Speed: 20.0500388889  Remaining Lane Distance: 22.1436648908
+Lane Distance covered: 77.9675852172  Speed: 20.0500388889  Remaining Lane Distance: 22.0324147828
+Lane Distance covered: 80.1925873777  Speed: 20.0500388889  Remaining Lane Distance: 19.8074126223
+Lane Distance covered: 80.3038374857  Speed: 20.0500388889  Remaining Lane Distance: 19.6961625143
+Lane Distance covered: 82.5288396462  Speed: 20.0500388889  Remaining Lane Distance: 17.4711603538
+Lane Distance covered: 82.6400897542  Speed: 20.0500388889  Remaining Lane Distance: 17.3599102458
+
+Exceptional Event in Progress...
+Object: deer
+Object Distance from Car: 13.44
+Object Speed: 2.84
+Object Direction wrt Car: left
+
+Retrieved Case:
+Object: 'deer'
+Distance from Car: 3.97
+Direction wrt Car: 'left'
+Speed of Car and Object: 'me': 29.68, 'deer': 6.8499999999999996
+Increasing Speed to speed limit of 25.68
+
+Lane Distance covered: 83.4743960659  Speed: 20  Remaining Lane Distance: 16.5256039341
+Lane Distance covered: 83.5327315598  Speed: 21.0007777778  Remaining Lane Distance: 16.4672684402
+Lane Distance covered: 83.5938469919  Speed: 22.0015555556  Remaining Lane Distance: 16.4061530081
+Lane Distance covered: 83.6577423622  Speed: 23.0023333333  Remaining Lane Distance: 16.3422576378
+Lane Distance covered: 83.7244176709  Speed: 24.0031111111  Remaining Lane Distance: 16.2755823291
+Lane Distance covered: 83.7938729178  Speed: 25.0038888889  Remaining Lane Distance: 16.2061270822
+Lane Distance covered: 83.8652062511  Speed: 25.68  Remaining Lane Distance: 16.1347937489
+
+Exceptional event concluded...
+
+Speed increased to 25.68. Speed will be decreased to speed limit: 20
+
+Lane Distance covered: 85.4446337154  Speed: 20.4356369995  Remaining Lane Distance: 14.5553662846
+
+Exceptional Event in Progress...
+Object: water
+Object Distance from Car: 22.09
+Object Speed: 7.9
+Object Direction wrt Car: left
+
+Retrieved Case:
+Object: 'water'
+Distance from Car: 2.02
+Direction wrt Car: 'left'
+Speed of Car and Object: 'me': 22.699999999999999, 'water': 1.710000000000001
+Reducing Speed to speed limit of 15
+
+Lane Distance covered: 85.5002924486  Speed: 20.0371439747  Remaining Lane Distance: 14.4997075514
+Lane Distance covered: 85.5452685713  Speed: 16.1914041627  Remaining Lane Distance: 14.4547314287
+Lane Distance covered: 85.586935238  Speed: 15  Remaining Lane Distance: 14.413064762
+
+Exceptional event concluded...
+
+Speed reduced to 15. Speed will be increased to speed limit: 20
+
+Lane Distance covered: 85.6287409016  Speed: 15.0500388889  Remaining Lane Distance: 14.3712590984
+Lane Distance covered: 87.4149449139  Speed: 17.0515944444  Remaining Lane Distance: 12.5850550861
+Lane Distance covered: 87.5100929849  Speed: 17.1516722222  Remaining Lane Distance: 12.4899070151
+Lane Distance covered: 89.5298118121  Speed: 19.1532277778  Remaining Lane Distance: 10.4701881879
+
+Exceptional Event in Progress...
+Object: car
+Object Distance from Car: 24.14
+Object Speed: 22.33
+Object Direction wrt Car: opposite
+
+Retrieved Case:
+Object: 'car'
+Distance from Car: 8.6
+Direction wrt Car: 'opposite'
+Speed of Car and Object: 'me': 14.76, 'car': 18.59
+Reducing Speed to speed limit of 0
+
+Lane Distance covered: 89.5831542195  Speed: 19.2032666667  Remaining Lane Distance: 10.4168457805
+Lane Distance covered: 89.5831542195  Speed: 0  Remaining Lane Distance: 10.4168457805
+
+Exceptional event concluded...
+
+Speed reduced to 0. Speed will be increased to speed limit: 20
+
+Lane Distance covered: 89.5832932164  Speed: 0.0500388888889  Remaining Lane Distance: 10.4167067836
+Lane Distance covered: 89.7028305621  Speed: 2.05159444444  Remaining Lane Distance: 10.2971694379
+Lane Distance covered: 89.7146452997  Speed: 2.15167222222  Remaining Lane Distance: 10.2853547003
+Lane Distance covered: 90.0676974602  Speed: 4.15322777778  Remaining Lane Distance: 9.93230253979
+Lane Distance covered: 90.0911879386  Speed: 4.25330555556  Remaining Lane Distance: 9.9088120614
+Lane Distance covered: 90.6777549139  Speed: 6.25486111111  Remaining Lane Distance: 9.32224508609
+Lane Distance covered: 90.712921133  Speed: 6.35493888889  Remaining Lane Distance: 9.28707886695
+Lane Distance covered: 91.5330029232  Speed: 8.35649444444  Remaining Lane Distance: 8.46699707683
+Lane Distance covered: 91.579844883  Speed: 8.45657222222  Remaining Lane Distance: 8.42015511695
+Lane Distance covered: 92.633441488  Speed: 10.4581277778  Remaining Lane Distance: 7.36655851201
+Lane Distance covered: 92.6919591886  Speed: 10.5582055556  Remaining Lane Distance: 7.3080408114
+Lane Distance covered: 93.9790706084  Speed: 12.5597611111  Remaining Lane Distance: 6.02092939164
+Lane Distance covered: 94.0492640497  Speed: 12.6598388889  Remaining Lane Distance: 5.95073595029
+Lane Distance covered: 95.5698902843  Speed: 14.6613944444  Remaining Lane Distance: 4.43010971572
+Lane Distance covered: 95.6517594664  Speed: 14.7614722222  Remaining Lane Distance: 4.34824053362
+Lane Distance covered: 97.4059005158  Speed: 16.7630277778  Remaining Lane Distance: 2.59409948424
+Lane Distance covered: 97.4994454386  Speed: 16.8631055556  Remaining Lane Distance: 2.5005545614
+
+Braking Distance Reached...STOP sign in view...
+Lane Distance covered: 98.6192890175  Speed: 5.63281823256  Remaining Lane Distance: 1.38071098253
+Lane Distance covered: 98.6340491634  Speed: 5.31365254302  Remaining Lane Distance: 1.36595083657
+Lane Distance covered: 98.8247225514  Speed: 2.39567642774  Remaining Lane Distance: 1.17527744861
+Lane Distance covered: 98.8311888081  Speed: 2.3278524245  Remaining Lane Distance: 1.16881119188
+Lane Distance covered: 98.9318679665  Speed: 1.46146715051  Remaining Lane Distance: 1.06813203348
+Lane Distance covered: 98.9358504506  Speed: 1.43369428571  Remaining Lane Distance: 1.06414954935
+Lane Distance covered: 99.0025813431  Speed: 0  Remaining Lane Distance: 0.997418656857
+
+Car STOPPED...
+Waiting to move...
+
+Lane Distance covered: 99.0027203401  Speed: 0.0500388888889  Remaining Lane Distance: 0.997279659944
+Lane Distance covered: 99.0029983339  Speed: 0.100077777778  Remaining Lane Distance: 0.997001666117
+Lane Distance covered: 99.0377475623  Speed: 1.10085555556  Remaining Lane Distance: 0.962252437722
+Lane Distance covered: 99.0409444913  Speed: 1.15089444444  Remaining Lane Distance: 0.959055508709
+Lane Distance covered: 99.1340724234  Speed: 2.15167222222  Remaining Lane Distance: 0.865927576611
+Lane Distance covered: 99.1401882876  Speed: 2.20171111111  Remaining Lane Distance: 0.859811712413
+Lane Distance covered: 99.2916949234  Speed: 3.20248888889  Remaining Lane Distance: 0.708305076611
+Lane Distance covered: 99.3007297228  Speed: 3.25252777778  Remaining Lane Distance: 0.699270277228
+Lane Distance covered: 99.5106150623  Speed: 4.25330555556  Remaining Lane Distance: 0.489384937722
+Lane Distance covered: 99.5225687968  Speed: 4.30334444444  Remaining Lane Distance: 0.477431203154
+Lane Distance covered: 99.7908328401  Speed: 5.30412222222  Remaining Lane Distance: 0.209167159944
+Lane Distance covered: 99.8057055098  Speed: 5.35416111111  Remaining Lane Distance: 0.194294490191
+Lane Distance covered: 100.011698936  Speed: 6.00466666667  Remaining Lane Distance: -0.0116989357352
+
+Lane Distance Reached
+Destination: IMU, Reached
+Total Journey Time: 221.428999901 seconds

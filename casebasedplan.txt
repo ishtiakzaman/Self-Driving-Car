@@ -1,0 +1,1202 @@
+[
+	(
+		[
+			'distance={\'car\': 25.890000000000001}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'same\'}',
+			'speed={\'me\': 15.0, \'car\': 21.0}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'water\': -2.0099999999999998}',
+			'direction={\'water\': \'same\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'right\'}',
+			'speed={\'me\': 19.07, \'water\': 0.4400000000000004}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'car\': 28.699999999999999}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'right\'}',
+			'speed={\'me\': 6.8399999999999999, \'car\': 11.93}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'bus\': -5.21}',
+			'direction={\'bus\': \'left\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'left\'}',
+			'speed={\'me\': 10.53000000000000003, \'bus\': 5.239999999999998}'
+		]
+	,
+	[
+		('accelerate', 'me', 40, 15.529999999999999)
+	]),
+	(
+		[
+			'distance={\'bus\': -21.719999999999999}',
+			'direction={\'bus\': \'same\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'left\'}',
+			'speed={\'me\': 5.75, \'bus\': 18.899999999999999}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 20.899999999999999)
+	]),
+	(
+		[
+			'distance={\'deer\': 15.460000000000001}',
+			'direction={\'deer\': \'opposite\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'same\'}',
+			'speed={\'me\': 27.739999999999998, \'deer\': 3.8300000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'water\': 10.91}',
+			'direction={\'water\': \'right\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'right\'}',
+			'speed={\'me\': 15.24, \'water\': 0.6400000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 11.619999999999999}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'opposite\'}',
+			'speed={\'me\': 17.16, \'pedestrian\': 11.85}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 22.159999999999997)
+	]),
+	(
+		[
+			'distance={\'car\': 16.850000000000001}',
+			'direction={\'car\': \'same\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'left\'}',
+			'speed={\'me\': 16.5, \'car\': 4.9500000000000002}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 16.9500000000000002)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 4.59999999999999998}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 20.289999999999999, \'pedestrian\': 4.989999999999998}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'car\': 23.309999999999999}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'right\'}',
+			'speed={\'me\': 6.4699999999999998, \'car\': 1.8999999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 13.65}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 19.0, \'pedestrian\': 11.92}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 25.0)
+	]),
+	(
+		[
+			'distance={\'deer\': 19.34}',
+			'direction={\'deer\': \'opposite\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'same\'}',
+			'speed={\'me\': 6.3399999999999999, \'deer\': 19.219999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 5.53000000000000003}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 5.4199999999999999, \'pedestrian\': 3.27}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 20.420000000000002)
+	]),
+	(
+		[
+			'distance={\'deer\': 5.10000000000000001}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'right\'}',
+			'speed={\'me\': 10.8200000000000003, \'deer\': 23.93}'
+		]
+	,
+	[
+		('decelerate', 'me', 100, 5.48)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': -16.75}',
+			'direction={\'pedestrian\': \'same\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'left\'}',
+			'speed={\'me\': 16.710000000000001, \'pedestrian\': 20.09}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 26.09)
+	]),
+	(
+		[
+			'distance={\'bus\': 18.379999999999999}',
+			'direction={\'bus\': \'left\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'same\'}',
+			'speed={\'me\': 27.609999999999999, \'bus\': 4.5}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 28)
+	]),
+	(
+		[
+			'distance={\'water\': 2.390000000000001}',
+			'direction={\'water\': \'left\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'left\'}',
+			'speed={\'me\': 2.3199999999999998, \'water\': 0.23}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 10)
+	]),
+	(
+		[
+			'distance={\'water\': -1.050000000000001}',
+			'direction={\'water\': \'right\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'left\'}',
+			'speed={\'me\': 22.329999999999998, \'water\': 1.9800000000000004}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 9.960000000000001}',
+			'direction={\'pedestrian\': \'opposite\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 12.720000000000001, \'pedestrian\': 19.800000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 5)
+	]),
+	(
+		[
+			'distance={\'bus\': 6.21}',
+			'direction={\'bus\': \'same\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'left\'}',
+			'speed={\'me\': 28.649999999999999, \'bus\': 2.71}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 29.71)
+	]),
+	(
+		[
+			'distance={\'water\': 0.239999999999998}',
+			'direction={\'water\': \'opposite\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'left\'}',
+			'speed={\'me\': 0.63, \'water\': 1.760000000000002}'
+		]
+	,
+	[
+		('accelerate', 'me', 40, 15)
+	]),
+	(
+		[
+			'distance={\'deer\': 4.0800000000000001}',
+			'direction={\'deer\': \'opposite\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'same\'}',
+			'speed={\'me\': 6.6100000000000003, \'deer\': 11.880000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'car\': 3.4700000000000002}',
+			'direction={\'car\': \'same\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'opposite\'}',
+			'speed={\'me\': 22.010000000000002, \'car\': 6.6100000000000003}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 25.6100000000000003)
+	]),
+	(
+		[
+			'distance={\'water\': 1.26}',
+			'direction={\'water\': \'opposite\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'opposite\'}',
+			'speed={\'me\': 25.960000000000001, \'water\': 0.95999999999999996}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'water\': -0.20000000000000001}',
+			'direction={\'water\': \'right\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'same\'}',
+			'speed={\'me\': 17.18, \'water\': 1.260000000000002}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'deer\': -3.9700000000000002}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'opposite\'}',
+			'speed={\'me\': 29.68, \'deer\': 6.8499999999999996}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 25.68)
+	]),
+	(
+		[
+			'distance={\'deer\': 10.789999999999999}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'left\'}',
+			'speed={\'me\': 25.399999999999999, \'deer\': 28.329999999999998}'
+		]
+	,
+	[
+		('decelerate', 'me', 20, 10.399999999999999)
+	]),
+	(
+		[
+			'distance={\'car\': -0.97999999999999998}',
+			'direction={\'car\': \'same\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'right\'}',
+			'speed={\'me\': 0.58999999999999997, \'car\': 9.2100000000000009}'
+		]
+	,
+	[
+		('decelerate', 'me', 20, 0)
+	]),
+	(
+		[
+			'distance={\'water\': -2.1500000000000004}',
+			'direction={\'water\': \'same\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'right\'}',
+			'speed={\'me\': 28.16, \'water\': 1.609999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'deer\': -8.3200000000000003}',
+			'direction={\'deer\': \'same\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'right\'}',
+			'speed={\'me\': 4.1200000000000001, \'deer\': 7.1399999999999997}'
+		]
+	,
+	[
+		('decelerate', 'me', 50, 1.1399999999999997)
+	]),
+	(
+		[
+			'distance={\'car\': 17.850000000000001}',
+			'direction={\'car\': \'opposite\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'same\'}',
+			'speed={\'me\': 22.960000000000001, \'car\': 1.47}'
+		]
+	,
+	[
+		('accelerate', 'me', 150, 25)
+	]),
+	(
+		[
+			'distance={\'water\': -1.510000000000002}',
+			'direction={\'water\': \'right\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'same\'}',
+			'speed={\'me\': 8.1799999999999997, \'water\': 1.2699999999999996}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 8)
+	]),
+	(
+		[
+			'distance={\'water\': -1.34}',
+			'direction={\'water\': \'same\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'right\'}',
+			'speed={\'me\': 25.960000000000001, \'water\': 2.77}'
+		]
+	,
+	[
+		('decelerate', 'me', 50, 15)
+	]),
+	(
+		[
+			'distance={\'deer\': 5.9699999999999998}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'same\'}',
+			'speed={\'me\': 12.44, \'deer\': 27.57}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'water\': -5.82}',
+			'direction={\'water\': \'same\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'opposite\'}',
+			'speed={\'me\': 29.140000000000001, \'water\': 1.06}'
+		]
+	,
+	[
+		('decelerate', 'me', 50, 20)
+	]),
+	(
+		[
+			'distance={\'car\': 8.5999999999999996}',
+			'direction={\'car\': \'opposite\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'same\'}',
+			'speed={\'me\': 14.76, \'car\': 18.59}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'deer\': -13.27}',
+			'direction={\'deer\': \'opposite\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'same\'}',
+			'speed={\'me\': 28.850000000000001, \'deer\': 21.870000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'car\': 9.5099999999999998}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'left\'}',
+			'speed={\'me\': 0.34999999999999998, \'car\': 14.880000000000001}'
+		]
+	,
+	[
+		('accelerate', 'me', 40, 10.35)
+	]),
+	(
+		[
+			'distance={\'water\': 2.02}',
+			'direction={\'water\': \'left\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'opposite\'}',
+			'speed={\'me\': 22.699999999999999, \'water\': 1.710000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'water\': -3.2200000000000002}',
+			'direction={\'water\': \'same\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'same\'}',
+			'speed={\'me\': 26.77, \'water\': 2.699999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 9.7899999999999991}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'opposite\'}',
+			'speed={\'me\': 27.530000000000001, \'pedestrian\': 2.7400000000000002}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 30.530000000000001)
+	]),
+	(
+		[
+			'distance={\'bus\': 14.81}',
+			'direction={\'bus\': \'opposite\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'same\'}',
+			'speed={\'me\': 5.85999999999999999, \'bus\': 10.619999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'deer\': 11.56}',
+			'direction={\'deer\': \'same\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'same\'}',
+			'speed={\'me\': 22.030000000000001, \'deer\': 60.3700000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 2.3700000000000001)
+	]),
+	(
+		[
+			'distance={\'water\': -3.8599999999999994}',
+			'direction={\'water\': \'opposite\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'left\'}',
+			'speed={\'me\': 4.9800000000000004, \'water\': 2.4900000000000002}'
+		]
+	,
+	[
+		('accelerate', 'me', 30, 10)
+	]),
+	(
+		[
+			'distance={\'bus\': -7.1799999999999997}',
+			'direction={\'bus\': \'same\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'left\'}',
+			'speed={\'me\': 7.3099999999999996, \'bus\': 16.550000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 50, 2)
+	]),
+	(
+		[
+			'distance={\'bus\': 6.29}',
+			'direction={\'bus\': \'same\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'same\'}',
+			'speed={\'me\': 25.18, \'bus\': 7.4500000000000002}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 27.4500000000000002)
+	]),
+	(
+		[
+			'distance={\'deer\': 28.870000000000001}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'right\'}',
+			'speed={\'me\': 10.089999999999999997, \'deer\': 70.3499999999999996}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'car\': 8.2100000000000009}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'opposite\'}',
+			'speed={\'me\': 9.1600000000000001, \'car\': 4.21}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 24.16)
+	]),
+	(
+		[
+			'distance={\'bus\': 29.48}',
+			'direction={\'bus\': \'left\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'same\'}',
+			'speed={\'me\': 25.699999999999999, \'bus\': 4.6299999999999999}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 27)
+	]),
+	(
+		[
+			'distance={\'water\': -1.039999999999999}',
+			'direction={\'water\': \'left\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'same\'}',
+			'speed={\'me\': 5.8600000000000003, \'water\': 2.75}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 12)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 5.6900000000000004}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 18.129999999999999, \'pedestrian\': 4.9699999999999998}'
+		]
+	,
+	[
+		('accelerate', 'me', 40, 20.129999999999995)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 7.25}',
+			'direction={\'pedestrian\': \'opposite\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 23.800000000000001, \'pedestrian\': 15.26}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'water\': 6.710000000000001}',
+			'direction={\'water\': \'left\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'same\'}',
+			'speed={\'me\': 7.3200000000000003, \'water\': 2.359999999999999}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 15)
+	]),
+	(
+		[
+			'distance={\'water\': -1.8200000000000003}',
+			'direction={\'water\': \'right\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'same\'}',
+			'speed={\'me\': 23.969999999999999, \'water\': 2.670000000000002}'
+		]
+	,
+	[
+		('decelerate', 'me', 20, 15)
+	]),
+	(
+		[
+			'distance={\'water\': 1.289999999999999}',
+			'direction={\'water\': \'left\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'right\'}',
+			'speed={\'me\': 25.289999999999999, \'water\': 1.5599999999999996}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 7.030000000000001}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'right\'}',
+			'speed={\'me\': 13.75, \'pedestrian\': 15.219999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'car\': 11.359999999999999}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'same\'}',
+			'speed={\'me\': 22.260000000000002, \'car\': 11.01}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 30.260000000000005)
+	]),
+	(
+		[
+			'distance={\'water\': -2.27}',
+			'direction={\'water\': \'opposite\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'same\'}',
+			'speed={\'me\': 29.600000000000001, \'water\': 4.81}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 12)
+	]),
+	(
+		[
+			'distance={\'car\': 6.5}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'right\'}',
+			'speed={\'me\': 27.289999999999999, \'car\': 23.870000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 1.289999999999999)
+	]),
+	(
+		[
+			'distance={\'car\': -17.41}',
+			'direction={\'car\': \'same\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'left\'}',
+			'speed={\'me\': 2.5699999999999998, \'car\': 23.559999999999999}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 23.559999999999999)
+	]),
+	(
+		[
+			'distance={\'car\': -29.949999999999999}',
+			'direction={\'car\': \'same\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'right\'}',
+			'speed={\'me\': 1.0, \'car\': 25.609999999999999}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 25.609999999999999)
+	]),
+	(
+		[
+			'distance={\'deer\': -5.20000000000000001}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'left\'}',
+			'speed={\'me\': 1.21, \'deer\': 50.170000000000002}'
+		]
+	,
+	[
+		('decelerate', 'me', 120, 0)
+	]),
+	(
+		[
+			'distance={\'bus\': 9.1899999999999995}',
+			'direction={\'bus\': \'same\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'same\'}',
+			'speed={\'me\': 18.699999999999999, \'bus\': 6.3099999999999996}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 20.3099999999999996)
+	]),
+	(
+		[
+			'distance={\'deer\': 9.960000000000001}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'right\'}',
+			'speed={\'me\': 2.6600000000000001, \'deer\': 70.640000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'bus\': 23.5}',
+			'direction={\'bus\': \'opposite\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'same\'}',
+			'speed={\'me\': 24.699999999999999, \'bus\': 19.07}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 30)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 2.890000000000001}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'left\'}',
+			'speed={\'me\': 11.42, \'pedestrian\': 5.79}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 7.5800000000000001}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 19.850000000000001, \'pedestrian\': 2.5600000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'deer\': 28.02}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'left\'}',
+			'speed={\'me\': 14.960000000000001, \'deer\': 65.6999999999999993}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'car\': -20.530000000000001}',
+			'direction={\'car\': \'opposite\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'same\'}',
+			'speed={\'me\': 3.3100000000000001, \'car\': 18.329999999999998}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 15)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 22.82}',
+			'direction={\'pedestrian\': \'same\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'right\'}',
+			'speed={\'me\': 17.98, \'pedestrian\': 15.69}'
+		]
+	,
+	[
+		('decelerate', 'me', 50, 5.69)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': -17.100000000000001}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 21.550000000000001, \'pedestrian\': 20.350000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 10.41}',
+			'direction={\'pedestrian\': \'right\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'right\'}',
+			'speed={\'me\': 1.0800000000000001, \'pedestrian\': 3.4399999999999999}'
+		]
+	,
+	[
+		('accelerate', 'me', 30, 15)
+	]),
+	(
+		[
+			'distance={\'car\': 26.829999999999998}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'same\'}',
+			'speed={\'me\': 28.989999999999998, \'car\': 22.25}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'car\': -20.760000000000002}',
+			'direction={\'car\': \'right\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'left\'}',
+			'speed={\'me\': 4.6600000000000001, \'car\': 19.620000000000001}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 10)
+	]),
+	(
+		[
+			'distance={\'car\': 16.539999999999999}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'same\'}',
+			'speed={\'me\': 5.9800000000000004, \'car\': 2.8799999999999999}'
+		]
+	,
+	[
+		('accelerate', 'me', 40, 15)
+	]),
+	(
+		[
+			'distance={\'car\': -16.989999999999998}',
+			'direction={\'car\': \'same\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'left\'}',
+			'speed={\'me\': 28.239999999999998, \'car\': 23.530000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 12)
+	]),
+	(
+		[
+			'distance={\'car\': 18.329999999999998}',
+			'direction={\'car\': \'opposite\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'left\'}',
+			'speed={\'me\': 24.52, \'car\': 2.8700000000000001}'
+		]
+	,
+	[
+		('accelerate', 'me', 5, 24)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 9.5199999999999996}',
+			'direction={\'pedestrian\': \'same\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 10.31, \'pedestrian\': 5.2999999999999998}'
+		]
+	,
+	[
+		('accelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'car\': 5.39000000000000001}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'right\'}',
+			'speed={\'me\': 16.899999999999999, \'car\': 16.390000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'deer\': 14.9000000000000004}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'opposite\'}',
+			'speed={\'me\': 23.239999999999998, \'deer\': 80.59999999999999998}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'deer\': -10.5700000000000001}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'same\'}',
+			'speed={\'me\': 28.52, \'deer\': 70.070000000000000007}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'car\': -3.8100000000000001}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'opposite\'}',
+			'speed={\'me\': 9.8399999999999999, \'car\': 25.629999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 100, 0)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': -14.130000000000001}',
+			'direction={\'pedestrian\': \'right\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 15.5999999999999996, \'pedestrian\': 5.23}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 20)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': -4.29}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'opposite\'}',
+			'speed={\'me\': 3.4300000000000002, \'pedestrian\': 15.989999999999998}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'car\': -7.4500000000000002}',
+			'direction={\'car\': \'same\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'same\'}',
+			'speed={\'me\': 22.920000000000002, \'car\': 10.640000000000001}'
+		]
+	,
+	[
+		('accelerate', 'me', 10, 27)
+	]),
+	(
+		[
+			'distance={\'car\': -11.92}',
+			'direction={\'car\': \'same\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'opposite\'}',
+			'speed={\'me\': 3.25, \'car\': 26.09}'
+		]
+	,
+	[
+		('accelerate', 'me', 50, 15)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 14.27}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'same\'}',
+			'speed={\'me\': 12.68, \'pedestrian\': 14.539999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 5.4500000000000002}',
+			'direction={\'pedestrian\': \'same\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'opposite\'}',
+			'speed={\'me\': 22.210000000000001, \'pedestrian\': 8.1899999999999995}'
+		]
+	,
+	[
+		('accelerate', 'me', 10, 25.1899999999999995)
+	]),
+	(
+		[
+			'distance={\'car\': 4.4400000000000004}',
+			'direction={\'car\': \'left\'}',
+			'target=\'car\'',
+			'lane={\'car\': \'left\'}',
+			'speed={\'me\': 21.43, \'car\': 13.859999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'water\': -1.0500000000000007}',
+			'direction={\'water\': \'same\'}',
+			'target=\'water\'',
+			'lane={\'water\': \'right\'}',
+			'speed={\'me\': 28.23, \'water\': 2.09}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'deer\': -5.75}',
+			'direction={\'deer\': \'same\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'right\'}',
+			'speed={\'me\': 3.71, \'deer\': 50.670000000000002}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'bus\': -7.53}',
+			'direction={\'bus\': \'left\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'opposite\'}',
+			'speed={\'me\': 10.90000000000000002, \'bus\': 14.619999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 9.370000000000001}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'right\'}',
+			'speed={\'me\': 25.68, \'pedestrian\': 14.27}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'deer\': -5.5}',
+			'direction={\'deer\': \'same\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'opposite\'}',
+			'speed={\'me\': 7.5800000000000001, \'deer\': 1.539999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'bus\': -4.7400000000000002}',
+			'direction={\'bus\': \'left\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'right\'}',
+			'speed={\'me\': 24.010000000000002, \'bus\': 2.6299999999999999}'
+		]
+	,
+	[
+		('accelerate', 'me', 20, 39.010000000000005)
+	]),
+	(
+		[
+			'distance={\'bus\': -20.949999999999999}',
+			'direction={\'bus\': \'right\'}',
+			'target=\'bus\'',
+			'lane={\'bus\': \'right\'}',
+			'speed={\'me\': 23.629999999999999, \'bus\': 24.219999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 2)
+	]),
+	(
+		[
+			'distance={\'deer\': 12.76}',
+			'direction={\'deer\': \'left\'}',
+			'target=\'deer\'',
+			'lane={\'deer\': \'left\'}',
+			'speed={\'me\': 25.34, \'deer\': 61.109999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': -9.9700000000000006}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'left\'}',
+			'speed={\'me\': 5.5300000000000002, \'pedestrian\': 18.460000000000001}'
+		]
+	,
+	[
+		('decelerate', 'me', 10, 15)
+	]),
+	(
+		[
+			'distance={\'pedestrian\': 2.0899999999999999}',
+			'direction={\'pedestrian\': \'left\'}',
+			'target=\'pedestrian\'',
+			'lane={\'pedestrian\': \'right\'}',
+			'speed={\'me\': 26.780000000000001, \'pedestrian\': 17.719999999999999}'
+		]
+	,
+	[
+		('decelerate', 'me', 150, 0)
+	])
+]

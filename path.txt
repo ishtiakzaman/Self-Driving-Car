@@ -1,0 +1,4 @@
+Src:FP,Dest:IMU,Dist:0.5,NoOfLanes:3
+turn:L,move:0.1,lane:2,signal:False,sign:
+turn:R,move:0.1,lane:2,signal:True,sign:speed~40
+turn:'D',move:0.1,lane:1,signal:False,sign:speed~20
